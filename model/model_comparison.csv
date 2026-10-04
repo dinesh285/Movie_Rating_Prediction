@@ -1,0 +1,5 @@
+Model,MAE,RMSE,R2
+Gradient Boosting,1.0444,1.346,0.2565
+Random Forest,1.0427,1.3502,0.2519
+Decision Tree,1.106,1.4286,0.1625
+Ridge Regression,1.2584,1.5638,-0.0037
