@@ -3,7 +3,7 @@ __pycache__/
 *.pyc
 .streamlit/
 *.tsv.gz
-*.txt
+dataset/*.txt
 eda_results/
 
 # Temporary/intermediate datasets
