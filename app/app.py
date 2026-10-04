@@ -4,6 +4,7 @@ import joblib
 import os
 import urllib.parse
 
+
 # ============================================================
 # PAGE CONFIGURATION
 # ============================================================
@@ -14,6 +15,7 @@ st.set_page_config(
     layout="wide"
 )
 
+
 # ============================================================
 # CUSTOM CSS
 # ============================================================
@@ -21,72 +23,97 @@ st.set_page_config(
 st.markdown("""
 <style>
 
-.main {
-    background-color: #0b1220;
-}
-
 .block-container {
-    padding-top: 2rem;
-    padding-bottom: 2rem;
     max-width: 1200px;
+    padding-top: 2rem;
+    padding-bottom: 3rem;
 }
 
-.title {
+/* Main title */
+.main-title {
     text-align: center;
     font-size: 42px;
     font-weight: 800;
     margin-bottom: 5px;
 }
 
+/* Subtitle */
 .subtitle {
     text-align: center;
     font-size: 18px;
     margin-bottom: 35px;
 }
 
-.result-box {
-    padding: 25px;
-    border-radius: 15px;
-    border: 1px solid #334155;
+/* Section headings */
+.section-title {
+    font-size: 28px;
+    font-weight: 700;
     margin-top: 25px;
 }
 
-.rating {
-    font-size: 42px;
-    font-weight: 800;
+/* Prediction result box */
+.result-box {
+    border: 2px solid #475569;
+    border-radius: 18px;
+    padding: 30px;
+    margin-top: 20px;
     text-align: center;
 }
 
-.movie-name {
-    font-size: 25px;
+/* Movie name */
+.result-movie {
+    font-size: 30px;
     font-weight: 700;
-    text-align: center;
+    margin-bottom: 15px;
 }
 
-.status {
-    text-align: center;
-    font-size: 20px;
+/* Rating */
+.result-rating {
+    font-size: 48px;
+    font-weight: 800;
+    margin: 10px 0;
+}
+
+/* Status */
+.result-status {
+    font-size: 23px;
     font-weight: 700;
     margin-top: 10px;
 }
 
-.watch-button {
-    display: inline-block;
-    padding: 12px 25px;
-    border-radius: 10px;
-    text-decoration: none;
+/* Watch button */
+.watch-link {
+    display: block;
+    text-align: center;
+    padding: 14px;
+    border-radius: 12px;
+    font-size: 18px;
     font-weight: 700;
-    font-size: 17px;
+    text-decoration: none;
+    margin-top: 20px;
+}
+
+/* Footer */
+.footer {
+    text-align: center;
+    margin-top: 40px;
+    padding: 20px;
+    font-size: 14px;
 }
 
 </style>
 """, unsafe_allow_html=True)
 
+
 # ============================================================
-# PATHS
+# PROJECT PATHS
 # ============================================================
 
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+BASE_DIR = os.path.dirname(
+    os.path.dirname(
+        os.path.abspath(__file__)
+    )
+)
 
 MODEL_PATH = os.path.join(
     BASE_DIR,
@@ -100,38 +127,65 @@ DATASET_PATH = os.path.join(
     "movies_ml_ready.csv"
 )
 
+
 # ============================================================
 # LOAD MODEL
 # ============================================================
 
 @st.cache_resource
 def load_model():
+
+    if not os.path.exists(MODEL_PATH):
+        return None
+
     return joblib.load(MODEL_PATH)
 
 
+# ============================================================
+# LOAD DATASET
+# ============================================================
+
 @st.cache_data
 def load_dataset():
+
     if os.path.exists(DATASET_PATH):
         return pd.read_csv(DATASET_PATH)
 
     return pd.DataFrame()
 
 
+# ============================================================
+# LOAD MODEL
+# ============================================================
+
 try:
+
     model = load_model()
+
+    if model is None:
+        st.error(
+            "❌ Model file not found: "
+            "model/movie_rating_model.pkl"
+        )
+        st.stop()
+
 except Exception as e:
-    st.error("❌ Model could not be loaded.")
+
+    st.error("❌ Unable to load the machine learning model.")
     st.code(str(e))
     st.stop()
 
+
+# Load dataset
 df = load_dataset()
+
 
 # ============================================================
 # HEADER
 # ============================================================
 
 st.markdown(
-    '<div class="title">🎬 AI MOVIE RATING PREDICTOR</div>',
+    '<div class="main-title">🎬 AI MOVIE RATING PREDICTOR</div>',
     unsafe_allow_html=True
 )
 
@@ -142,40 +196,71 @@ st.markdown(
     unsafe_allow_html=True
 )
 
+
 # ============================================================
-# INFORMATION
+# ABOUT PROJECT
 # ============================================================
 
-with st.expander("ℹ️ About this Project"):
+with st.expander("ℹ️ About This Project"):
 
-    st.write("""
-    This project predicts movie ratings using Machine Learning.
+    st.markdown("""
+### 🎬 AI Movie Rating Predictor
 
-    **Dataset:** IMDb movie data
+This application predicts the expected rating of a movie
+using Machine Learning.
 
-    **Languages:** English, Hindi and Telugu
+**Dataset:** IMDb movie data
 
-    **Prediction Model:** Gradient Boosting Regressor
+**Languages:**
+- English
+- Hindi
+- Telugu
 
-    **Other models evaluated:**
-    - Ridge Regression
-    - Decision Tree
-    - Random Forest
-    - Gradient Boosting
+**Machine Learning Models evaluated:**
+- Ridge Regression
+- Decision Tree Regressor
+- Random Forest Regressor
+- Gradient Boosting Regressor
 
-    The model uses movie information such as language, year,
-    genre, director, hero, heroine, runtime and expected votes.
-    """)
+**Best Model:** Gradient Boosting Regressor
+
+The model uses:
+
+- Language
+- Release Year
+- Genre
+- Director
+- Hero
+- Heroine
+- Runtime
+- Expected Votes
+""")
+
 
 # ============================================================
 # INPUT SECTION
 # ============================================================
 
-st.subheader("🎥 Enter Movie Details")
+st.markdown(
+    '<div class="section-title">🎥 Enter Movie Details</div>',
+    unsafe_allow_html=True
+)
 
-col1, col2 = st.columns(2)
+st.write("")
 
-with col1:
+
+# ============================================================
+# TWO-COLUMN INPUT LAYOUT
+# ============================================================
+
+left_col, right_col = st.columns(2)
+
+
+# ------------------------------------------------------------
+# LEFT COLUMN
+# ------------------------------------------------------------
+
+with left_col:
 
     movie_name = st.text_input(
         "🎬 Movie Name",
@@ -185,9 +270,9 @@ with col1:
     language = st.selectbox(
         "🌐 Language",
         [
-            "English",
+            "Telugu",
             "Hindi",
-            "Telugu"
+            "English"
         ]
     )
 
@@ -220,7 +305,12 @@ with col1:
         ]
     )
 
-with col2:
+
+# ------------------------------------------------------------
+# RIGHT COLUMN
+# ------------------------------------------------------------
+
+with right_col:
 
     director = st.text_input(
         "🎬 Director",
@@ -245,8 +335,9 @@ with col2:
         step=1
     )
 
+
 # ============================================================
-# VOTES
+# EXPECTED VOTES
 # ============================================================
 
 votes = st.number_input(
@@ -257,34 +348,67 @@ votes = st.number_input(
 )
 
 st.caption(
-    "💡 Votes are used because the trained ML model includes "
-    "movie popularity information."
+    "💡 Expected votes are included because the trained "
+    "machine-learning model uses vote count as a feature."
 )
+
+
+# ============================================================
+# PREDICT BUTTON
+# ============================================================
+
+st.write("")
+
+predict_button = st.button(
+    "⭐ PREDICT RATING",
+    use_container_width=True,
+    type="primary"
+)
+
 
 # ============================================================
 # PREDICTION
 # ============================================================
 
-predict_button = st.button(
-    "⭐ PREDICT RATING",
-    use_container_width=True
-)
-
 if predict_button:
+
+    # --------------------------------------------------------
+    # CHECK MOVIE NAME
+    # --------------------------------------------------------
 
     if not movie_name.strip():
 
-        st.warning("⚠️ Please enter the movie name.")
+        st.warning(
+            "⚠️ Please enter a movie name."
+        )
 
     else:
 
         # ----------------------------------------------------
-        # CREATE PEOPLE FEATURE
+        # HANDLE OPTIONAL FIELDS
         # ----------------------------------------------------
 
-        director_value = director.strip() if director.strip() else "Unknown"
-        hero_value = hero.strip() if hero.strip() else "Unknown"
-        heroine_value = heroine.strip() if heroine.strip() else "Unknown"
+        director_value = (
+            director.strip()
+            if director.strip()
+            else "Unknown"
+        )
+
+        hero_value = (
+            hero.strip()
+            if hero.strip()
+            else "Unknown"
+        )
+
+        heroine_value = (
+            heroine.strip()
+            if heroine.strip()
+            else "Unknown"
+        )
+
+        # ----------------------------------------------------
+        # CREATE PEOPLE FEATURE
+        # ----------------------------------------------------
 
         people = (
             director_value
@@ -299,36 +423,56 @@ if predict_button:
         # ----------------------------------------------------
 
         input_data = pd.DataFrame({
+
             "Language": [language],
+
             "Year": [year],
+
             "Genre": [genre],
+
             "People": [people],
+
             "Runtime": [runtime],
+
             "Votes": [votes]
+
         })
 
         # ----------------------------------------------------
-        # PREDICT
+        # MAKE PREDICTION
         # ----------------------------------------------------
 
         try:
 
-            prediction = model.predict(input_data)[0]
+            prediction = model.predict(
+                input_data
+            )[0]
 
             # Keep rating between 0 and 10
-            prediction = max(0, min(10, prediction))
+            prediction = max(
+                0,
+                min(10, prediction)
+            )
 
-            prediction = round(prediction, 1)
+            prediction = round(
+                prediction,
+                1
+            )
 
         except Exception as e:
 
-            st.error("❌ Prediction failed.")
+            st.error(
+                "❌ Prediction failed."
+            )
+
             st.code(str(e))
+
             st.stop()
 
-        # ----------------------------------------------------
+
+        # ====================================================
         # RATING CATEGORY
-        # ----------------------------------------------------
+        # ====================================================
 
         if prediction >= 8:
 
@@ -346,48 +490,67 @@ if predict_button:
 
             category = "🔴 Low Rating"
 
-        # ----------------------------------------------------
-        # RESULT
-        # ----------------------------------------------------
+
+        # ====================================================
+        # PREDICTION RESULT
+        # ====================================================
 
         st.markdown("---")
 
-        st.subheader("🎬 PREDICTION RESULT")
+        st.markdown(
+            '<div class="section-title">'
+            '🎬 PREDICTION RESULT'
+            '</div>',
+            unsafe_allow_html=True
+        )
+
+        st.write("")
+
+        # ----------------------------------------------------
+        # RESULT CARD
+        # ----------------------------------------------------
 
         st.markdown(
             f"""
-            <div class="result-box">
+<div class="result-box">
 
-                <div class="movie-name">
-                    🎬 {movie_name}
-                </div>
+<div class="result-movie">
+🎬 {movie_name}
+</div>
 
-                <div class="rating">
-                    ⭐ {prediction} / 10
-                </div>
+<div class="result-rating">
+⭐ {prediction} / 10
+</div>
 
-                <div class="status">
-                    {category}
-                </div>
+<div class="result-status">
+{category}
+</div>
 
-            </div>
-            """,
+</div>
+""",
             unsafe_allow_html=True
         )
+
 
         # ====================================================
         # WATCH MOVIE
         # ====================================================
 
-        st.markdown("### 🎥 Watch Movie")
+        st.write("")
 
-        st.info(
-            "The button below searches for an official/legal "
-            "streaming or rental source. Availability depends "
-            "on the movie and your region."
+        st.markdown(
+            "### 🎥 Watch Movie"
         )
 
-        encoded_movie = urllib.parse.quote(movie_name)
+        st.info(
+            "Search for an official/legal streaming or "
+            "rental source. Availability may depend on "
+            "your country and the movie."
+        )
+
+        encoded_movie = urllib.parse.quote(
+            movie_name
+        )
 
         watch_url = (
             "https://www.google.com/search?q="
@@ -397,22 +560,14 @@ if predict_button:
 
         st.markdown(
             f"""
-            <a href="{watch_url}" target="_blank">
-                <button style="
-                    width:100%;
-                    padding:14px;
-                    border:none;
-                    border-radius:10px;
-                    font-size:18px;
-                    font-weight:bold;
-                    cursor:pointer;
-                ">
-                    🎥 WATCH {movie_name.upper()}
-                </button>
-            </a>
-            """,
+<a href="{watch_url}" target="_blank"
+class="watch-link">
+🎥 WATCH {movie_name.upper()}
+</a>
+""",
             unsafe_allow_html=True
         )
+
 
 # ============================================================
 # MODEL INFORMATION
@@ -420,45 +575,101 @@ if predict_button:
 
 st.markdown("---")
 
-st.subheader("🤖 Machine Learning Model")
+st.markdown(
+    '<div class="section-title">'
+    '🤖 Machine Learning Model'
+    '</div>',
+    unsafe_allow_html=True
+)
 
-info1, info2, info3 = st.columns(3)
+st.write("")
 
-with info1:
+metric1, metric2, metric3, metric4 = st.columns(4)
+
+
+with metric1:
+
     st.metric(
         "Best Model",
         "Gradient Boosting"
     )
 
-with info2:
+
+with metric2:
+
     st.metric(
         "MAE",
         "1.0444"
     )
 
-with info3:
+
+with metric3:
+
+    st.metric(
+        "RMSE",
+        "1.3460"
+    )
+
+
+with metric4:
+
     st.metric(
         "R² Score",
         "0.2565"
     )
 
+
 st.caption(
-    "The displayed metrics are from the project's "
-    "time-based test evaluation (2024–2025)."
+    "Evaluation performed using a time-based test split "
+    "(training: 2005–2023, testing: 2024–2025)."
 )
+
+
+# ============================================================
+# PROJECT TECHNOLOGY
+# ============================================================
+
+with st.expander("🛠️ Technologies Used"):
+
+    st.markdown("""
+### Programming
+- Python
+
+### Machine Learning
+- Scikit-learn
+- Gradient Boosting Regressor
+- Random Forest Regressor
+- Decision Tree Regressor
+- Ridge Regression
+
+### Data Processing
+- Pandas
+- NumPy
+
+### Model Saving
+- Joblib
+
+### Web Application
+- Streamlit
+
+### Dataset
+- IMDb datasets
+""")
+
 
 # ============================================================
 # FOOTER
 # ============================================================
 
-st.markdown("---")
-
 st.markdown(
     """
-    <div style="text-align:center;">
-        🎬 AI Movie Rating Predictor<br>
-        Built using Python • Scikit-learn • Streamlit
-    </div>
-    """,
+<div class="footer">
+
+🎬 <b>AI Movie Rating Predictor</b><br>
+
+Built using Python • Machine Learning • Scikit-learn • Streamlit
+
+</div>
+""",
     unsafe_allow_html=True
 )
