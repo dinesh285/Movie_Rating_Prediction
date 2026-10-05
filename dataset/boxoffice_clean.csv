@@ -1,0 +1,663 @@
+Movie_Name,Year,Genre,Director,Cast,Budget,Worldwide_Gross,Recovery_Ratio,ROI_Percentage,BoxOffice_Rating,BoxOffice_Verdict
+Mumbai Can Dance Saala,2015,Thriller,Sachindra Sharma,"Ashima Sharma, Prashant Narayanan, Aditya Pancholi, Mukesh Tiwari",35000000.0,3100000.0,0.08857142857142856,-91.14285714285715,1.0,FLOP
+Take It Easy,2015,Drama,Sunil Prem Vyas,"Vikram Gokhale, Dipannita Sharma, Raj Zutshi, Anang Desai, Joy Sengupta, Sulabha Arya, Vijay Kashyap",22500000.0,5100000.0,0.22666666666666666,-77.33333333333333,1.0,FLOP
+Tevar,2015,"Action, Romance",Amit Sharma,"Arjun Kapoor, Sonakshi Sinha, Raj Babbar, Manoj Bajpai",540000000.0,565125000.0,1.0465277777777777,4.652777777777778,2.5,AVERAGE
+Alone,2015,Horror,Bhushan Patel,"Bipasha Basu, Karan Singh Grover",190000000.0,258450000.0,1.3602631578947368,36.026315789473685,2.5,AVERAGE
+Crazy Cukkad Family,2015,Comedy,Ritesh Menon,"Swanand Kirkire, Shilpa Shukla, Ninad Kamat, Kushal Punjabi, Kiran Karmarkar, Yusuf Hussain",50000000.0,4400000.0,0.088,-91.2,1.0,FLOP
+Sharafat Gayi Tel Lene,2015,"Comedy, Thriller",Gurmmeet Singh,"Zayed Khan, Tina Desai, Rannvijay Singh, Talia Benson, Anupam Kher",70000000.0,5700000.0,0.08142857142857143,-91.85714285714286,1.0,FLOP
+Baby,2015,Thriller,Neeraj Pandey,"Akshay Kumar, Taapsee Pannu, Rana Daggubati, Anupam Kher, Kay Kay Menon, Danny Denzongpa",750000000.0,1248440000.0,1.6645866666666667,66.45866666666666,3.2,AVERAGE
+Dolly Ki Doli,2015,"Romantic, Comedy",Abhishek Dogra,"Sonam Kapoor, Pulkit Samrat, Rajkummar Rao, Varun Sharma",210000000.0,188337500.0,0.8968452380952381,-10.31547619047619,1.8,FLOP
+Hawaizaada,2015,Drama,Vibhu Puri,"Ayushmann Khurrana, Pallavi Sharda",340000000.0,55900000.0,0.16441176470588234,-83.55882352941177,1.0,FLOP
+Khamoshiyan,2015,Horror,Karan Dara,"Gurmeet Choudhary, Ali Fazal, Sapna Pabbi",120000000.0,134180000.0,1.1181666666666668,11.816666666666666,2.5,AVERAGE
+Rahasya,2015,Mystery,Manish Gupta,"Tisca Chopra, Ashish Vidyarthi, Kay Kay Menon",2500000.0,1700000.0,0.68,-32.0,1.0,FLOP
+Shamitabh,2015,Drama,R. Balki,"Amitabh Bachchan, Dhanush, Akshara Haasan",490000000.0,371275000.0,0.757704081632653,-24.22959183673469,1.8,FLOP
+MSG: The Messenger,2015,"Action, Drama","Gurmeet Ram Rahim Singh, Jeetu Arora","Gurmeet Ram Rahim Singh, Daniel Kaleb, Flora Saini, Jayshree Soni, Olexandra Semen, Gaurav Gera, Jay Singh Rajpoot, Himanshu Tiwari",300000000.0,168990000.0,0.5633,-43.669999999999995,1.0,FLOP
+Roy,2015,"Romance, Thriller",Vikramjit Singh,"Ranbir Kapoor, Jacqueline Fernandez, Arjun Rampal",500000000.0,560200000.0,1.1204,12.04,2.5,AVERAGE
+Badlapur,2015,"Action, Thriller",Sriram Raghavan,"Varun Dhawan, Nawazuddin Siddiqui, Huma Qureshi, Yami Gautam, Vinay Pathak, Divya Dutta",70000000.0,10900000.0,0.15571428571428572,-84.42857142857143,1.0,FLOP
+Ab Tak Chhappan 2,2015,"Crime, Drama",Aejaz Gulab,"Nana Patekar, Ashutosh Rana, Vikram Gokhale, Gul Panag",180000000.0,93600000.0,0.52,-48.0,1.0,FLOP
+Dum Laga Ke Haisha,2015,Comedy,Sharat Katariya,"Ayushmann Khurrana, Bhumi Pednekar",140000000.0,414537500.0,2.960982142857143,196.09821428571428,3.8,HIT
+Badmashiyaan,2015,Romantic comedy,Amit Khanna,"Suzzanna Mukherjee, Sidhant Gupta, Gunjan Malhotra, Sharib Hashmi, Karan Mehra",7500000.0,10300000.0,1.3733333333333333,37.333333333333336,2.5,AVERAGE
+Dirty Politics,2015,Political Drama,K. C. Bokadia,"Mallika Sherawat, Naseeruddin Shah, Jackie Shroff, Atul Kulkarni, Anupam Kher, Ashutosh Rana",110000000.0,84800000.0,0.7709090909090909,-22.90909090909091,1.8,FLOP
+NH10,2015,Thriller,Navdeep Singh,"Anushka Sharma, Neil Bhoopalam, Darshan Kumar",160000000.0,491000000.0,3.06875,206.875,4.3,SUPER HIT
+Dilliwali Zaalim Girlfriend,2015,Comedy,Japinder Kaur,"Divyendu Sharma, Jackie Shroff, Prachi Mishra, Ira Dubey",75000000.0,30900000.0,0.412,-58.8,1.0,FLOP
+Hunterrr,2015,Comedy,Harshavardhan Kulkarni,"Gulshan Devaiah, Radhika Apte, Sai Tamhankar",90000000.0,174600000.0,1.94,94.0,3.2,AVERAGE
+Barkhaa,2015,Romance,Shadaab Mirza,"Sara Loren, Taaha Shah, Shweta Pandit, Priyanshu Chatterjee",56000000.0,13300000.0,0.2375,-76.25,1.0,FLOP
+Detective Byomkesh Bakshy!,2015,Thriller,Dibakar Banerjee,"Sushant Singh Rajput, Anand Tiwari, Swastika Mukherjee, Divya Menon, Neeraj Kabi, Meiyang Chang",350000000.0,439500000.0,1.2557142857142858,25.571428571428573,2.5,AVERAGE
+Dharam Sankat Mein,2015,Drama,Fuwad Khan,"Naseeruddin Shah, Paresh Rawal, Annu Kapoor, Murali Sharma",140000000.0,120916000.0,0.8636857142857143,-13.631428571428572,1.8,FLOP
+Ek Paheli Leela,2015,Musical,Bobby Khan,"Sunny Leone, Jay Bhanushali, Mohit Ahlawat, Rajneesh Duggal, Rahul Dev, Jas Arora",230000000.0,255620000.0,1.111391304347826,11.139130434782608,2.5,AVERAGE
+Margarita with a Straw,2015,Drama,Shonali Bose,"Kalki Koechlin, Revathi, Hussain Dalal",65000000.0,74300000.0,1.143076923076923,14.307692307692307,2.5,AVERAGE
+Mr. X,2015,Sci fi/thriller,Vikram Bhatt,"Emraan Hashmi, Amyra Dastur",370000000.0,297362500.0,0.8036824324324324,-19.631756756756758,1.8,FLOP
+NH-8 Road to Nidhivan,2015,Horror,Munindra Gupta,"Auroshikha Dey, Ravneet Kaur, Satyakam Anand, Arjun Fauzdar, Swaroopa Ghosh",1600000.0,950000.0,0.59375,-40.625,1.0,FLOP
+Ishq Ke Parindey,2015,Romance,Shakir Khan,"Rishi Verma, Priyanka Mehta, Manjul Aazad, Yasir Iftikhar Khan",32500000.0,4200000.0,0.12923076923076923,-87.07692307692308,1.0,FLOP
+Kaagaz Ke Fools,2015,Comedy,Anil Kumar Chaudhary,"Vinay Pathak, Mugdha Godse, Raima Sen, Saurabh Shukla, Rajendra Sethi, Amit Behl",40000000.0,4800000.0,0.12,-88.0,1.0,FLOP
+Gabbar Is Back,2015,Crime/action,Krish,"Akshay Kumar, Shruti Haasan, Suman",790000000.0,1358120000.0,1.719139240506329,71.91392405063291,3.2,AVERAGE
+Kuch Kuch Locha Hai,2015,Comedy,Devang Dholakia,"Ram Kapoor, Sunny Leone, Evelyn Sharma, Navdeep Chabbra",150000000.0,35100000.0,0.234,-76.6,1.0,FLOP
+Piku,2015,Comedy/drama,Shoojit Sircar,"Amitabh Bachchan, Deepika Padukone, Irrfan Khan, Moushumi Chatterjee, Jisshu Sengupta",420000000.0,1412650000.0,3.363452380952381,236.34523809523807,4.3,SUPER HIT
+Bombay Velvet,2015,Crime/drama,Anurag Kashyap,"Ranbir Kapoor, Anushka Sharma, Karan Johar, Kay Kay Menon",1180000000.0,431365000.0,0.3655635593220339,-63.44364406779661,1.0,FLOP
+Main Hoon Part-Time Killer,2015,"Spoof, comedy, thriller",Faisal Saif,"Adithya Menon, Kavita Radheshyam",8000000.0,725000.0,0.090625,-90.9375,1.0,FLOP
+Tanu Weds Manu: Returns,2015,Romance/comedy,Anand L. Rai,"R. Madhavan, Kangana Ranaut",390000000.0,2436400000.0,6.247179487179487,524.7179487179487,5.0,BLOCKBUSTER
+Waiting,2015,Drama,Anu Menon,"Naseeruddin Shah, Kalki Koechlin, Arjun Mathur, Rajat Kapoor, Suhasini Maniratnam",65000000.0,37000000.0,0.5692307692307692,-43.07692307692308,1.0,FLOP
+Ishqedarriyaan,2015,Drama,V. K. Prakash,"Mahaakshay Chakraborty, Evelyn Sharma, Kavin Dave, Mohit Dutta",100000000.0,3400000.0,0.034,-96.6,1.0,FLOP
+P Se PM Tak,2015,Comedy,Kundan Shah,"Meenakshi Dixit, Rocky Verma, Bharat Jadhav, Yashpal Sharma",10000000.0,675000.0,0.0675,-93.25,1.0,FLOP
+Welcome 2 Karachi,2015,Comedy,Ashish R Mohan,"Arshad Warsi, Jackky Bhagnani, Lauren Gottlieb, Ayub Khoso, Adnan Shah, Imran Hasnee",290000000.0,135362500.0,0.46676724137931036,-53.32327586206896,1.0,FLOP
+Dil Dhadakne Do,2015,Drama,Zoya Akhtar,"Anil Kapoor, Shefali Shah, Priyanka Chopra, Ranveer Singh, Anushka Sharma, Farhan Akhtar, Rahul Bose, Zarina Wahab",830000000.0,1447987500.0,1.7445632530120483,74.45632530120481,3.2,AVERAGE
+Hamari Adhuri Kahani,2015,Romance/drama,Mohit Suri,"Emraan Hashmi, Vidya Balan, Rajkummar Rao",400000000.0,518720000.0,1.2968,29.68,2.5,AVERAGE
+ABCD 2,2015,Dance,Remo D'Souza,"Varun Dhawan, Shraddha Kapoor, Prabhu Deva, Lauren Gottlieb, Dharmesh Yelande, Punit Pathak, Raghav Juyal",650000000.0,1583195000.0,2.4356846153846154,143.56846153846155,3.8,HIT
+Miss Tanakpur Haazir Ho,2015,Comedy/drama,Vinod Kapri,"Annu Kapoor, Om Puri, Rahul Bagga, Hrishitaa Bhatt",60000000.0,15400000.0,0.25666666666666665,-74.33333333333333,1.0,FLOP
+Uvaa,2015,Social/comedy,Jasbir Bhaati,"Om Puri, Jimmy Sheirgill, Sangram Singh, Archana Puran Singh",25000000.0,2850000.0,0.114,-88.6,1.0,FLOP
+Lion of Gujarat,2015,Action,Dinesh Lamba,"Dinesh Lamba, Akruti Agrawal, Homi Wadia",50000000.0,285000.0,0.0057,-99.42999999999999,1.0,FLOP
+Bezubaan Ishq,2015,Romance,Jashwant Gangani,"Nishant Singh Malkani, Mugdha Godse, Sneha Ullal",150000000.0,1475000.0,0.009833333333333333,-99.01666666666667,1.0,FLOP
+Guddu Rangeela,2015,Comedy,Subhash Kapoor,"Arshad Warsi, Aditi Rao Hydari, Amit Sadh",200000000.0,96025000.0,0.480125,-51.9875,1.0,FLOP
+Second Hand Husband,2015,Drama,Smeep Kang,"Gippy Grewal, Tina Ahuja, Dharmendra",110000000.0,51050000.0,0.4640909090909091,-53.590909090909086,1.0,FLOP
+I Love NY,2015,Romance/drama,Radhika Rao,"Sunny Deol, Kangana Ranaut",160000000.0,16200000.0,0.10125,-89.875,1.0,FLOP
+Thoda Lutf Thoda Ishq,2015,Romance/drama,Sachin Gupta,"Hiten Tejwani, Sanjay Mishra",170000000.0,284000.0,0.0016705882352941177,-99.8329411764706,1.0,FLOP
+Bajrangi Bhaijaan,2015,"Action, comedy, drama",Kabir Khan,"Salman Khan, Kareena Kapoor, Nawazuddin Siddiqui, Harshaali Malhotra",1250000000.0,6039940000.0,4.831952,383.1952,4.8,BLOCKBUSTER
+Masaan,2015,Drama,Neeraj Ghaywan,"Richa Chadha, Vicky Kaushal, Sanjay Mishra, Shweta Tripathi",80000000.0,52500000.0,0.65625,-34.375,1.0,FLOP
+Drishyam,2015,Drama/thriller,Nishikant Kamat,"Ajay Devgn, Tabu, Shriya Saran, Rajat Kapoor",620000000.0,1104260000.0,1.7810645161290322,78.10645161290323,3.2,AVERAGE
+Bangistan,2015,Comedy,Karan Anshuman,"Riteish Deshmukh, Pulkit Samrat",290000000.0,83025000.0,0.28629310344827585,-71.37068965517241,1.0,FLOP
+Brothers,2015,Drama,Karan Malhotra,"Akshay Kumar, Sidharth Malhotra, Jacqueline Fernandez, Jackie Shroff, Conan Stevens",1120000000.0,1230950000.0,1.0990625,9.90625,2.5,AVERAGE
+Gour Hari Dastaan,2015,Drama,Ananth Narayan Mahadevan,"Vinay Pathak, Konkona Sen Sharma, Ranvir Shorey, Tannishtha Chatterjee",60000000.0,2600000.0,0.043333333333333335,-95.66666666666667,1.0,FLOP
+All Is Well,2015,Drama,Umesh Shukla,"Abhishek Bachchan, Asin Thottumkal, Rishi Kapoor, Supriya Pathak",340000000.0,230320000.0,0.6774117647058824,-32.258823529411764,1.0,FLOP
+Manjhi – The Mountain Man,2015,Drama,Ketan Mehta,"Nawazuddin Siddiqui, Radhika Apte",85000000.0,172400000.0,2.028235294117647,102.82352941176471,3.8,HIT
+Kaun Kitney Paani Mein,2015,Social/drama,Nila Madhab Panda,"Saurabh Shukla, Radhika Apte, Gulshan Grover",10000000.0,3500000.0,0.35,-65.0,1.0,FLOP
+Phantom,2015,Action/thriller,Kabir Khan,"Saif Ali Khan, Katrina Kaif",720000000.0,844400000.0,1.1727777777777777,17.27777777777778,2.5,AVERAGE
+Welcome Back,2015,Romance/comedy,Anees Bazmee,"John Abraham, Shruti Hassan, Anil Kapoor, Nana Patekar, Paresh Rawal, Dimple Kapadia",1080000000.0,1687670000.0,1.5626574074074073,56.265740740740746,3.2,AVERAGE
+Lakhon Hain Yahan Dilwale,2015,Romance,Munnawar Bhagat,"Aditya Pancholi, Arun Bakshi, Kishori Shahane",25000000.0,287500.0,0.0115,-98.85000000000001,1.0,FLOP
+Hero,2015,Action/romance,Nikhil Advani,"Sooraj Pancholi, Athiya Shetty, Salman Khan, Tigmanshu Dhulia, Aditya Pancholi, Sharad Kelkar",180000000.0,254400000.0,1.4133333333333333,41.333333333333336,2.5,AVERAGE
+Sorry Daddy,2015,Action/drama,Vijay Pal and Shakur,"Shamim Khan, Mukesh Tiwari, Tinu Verma",20000000.0,900000.0,0.045,-95.5,1.0,FLOP
+Katti Batti,2015,Romance/comedy,Nikhil Advani,"Imran Khan, Kangana Ranaut",320000000.0,426425000.0,1.332578125,33.2578125,2.5,AVERAGE
+Meeruthiya Gangster,2015,Crime/comedy,Zeishan Quadri,"Jaideep Ahlawat, Aakash Dahiya, Shadab Kamal, Nushrat Bharucha, Ishita Sharma",40000000.0,8100000.0,0.2025,-79.75,1.0,FLOP
+Kis Kisko Pyaar Karoon,2015,Comedy,Abbas–Mustan,"Kapil Sharma, Arbaz Khan, Manjari Phadnis, Simran Kaur Mundi, Elli Avram, Sai Lokur, Varun Sharma, Supriya Pathak",160000000.0,716000000.0,4.475,347.5,4.8,BLOCKBUSTER
+Singh Is Bliing,2015,Comedy,Prabhu Deva,"Akshay Kumar, Amy Jackson",760000000.0,1460000000.0,1.9210526315789473,92.10526315789474,3.2,AVERAGE
+Talvar,2015,Thriller,Meghna Gulzar,"Irrfan Khan, Konkona Sen Sharma, Tabu",170000000.0,471780000.0,2.775176470588235,177.51764705882354,3.8,HIT
+Jazbaa,2015,Action/drama,Sanjay Gupta,"Aishwarya Rai Bachchan, Irrfan Khan, Shabana Azmi",280000000.0,429692500.0,1.5346160714285715,53.46160714285715,3.2,AVERAGE
+Pyaar Ka Punchnama 2,2015,Comedy,Luv Ranjan,"Kartik Aaryan, Nushrat Bharucha, Sonnalli Seygall, Omkar Kapoor",220000000.0,881767500.0,4.008034090909091,300.8034090909091,4.8,BLOCKBUSTER
+Shaandaar,2015,Romance/comedy,Vikas Bahl,"Shahid Kapoor, Alia Bhatt, Pankaj Kapur",690000000.0,757000000.0,1.0971014492753624,9.710144927536232,2.5,AVERAGE
+Main Aur Charles,2015,Thriller,Prawaal Raman,"Randeep Hooda, Richa Chadha, Adil Hussain, Nandu Madhav",100000000.0,81200000.0,0.812,-18.8,1.8,FLOP
+Prithipal Singh... A Story,2015,Biopic,Babita Puri,"Vikas Kumar, Anjali Singh",20000000.0,130000.0,0.0065,-99.35000000000001,1.0,FLOP
+Charlie Kay Chakkar Mein,2015,Crime/thriller,Manish Srivasta,Naseeruddin Shah,60000000.0,10200000.0,0.17,-83.0,1.0,FLOP
+Prem Ratan Dhan Payo,2015,Romance,Sooraj Barjatya,"Salman Khan, Sonam Kapoor, Neil Nitin Mukesh, Swara Bhaskar, Armaan Kohli, Anupam Kher, Deepak Dobriyal, Sanjay Mishra",1800000000.0,3654575000.0,2.0303194444444443,103.03194444444443,3.8,HIT
+Angry Indian Goddesses,2015,Drama,Pan Nalin,"Sarah-Jane Dias, Tannishtha Chatterjee, Anushka Manchanda, Sandhya Mridul",90000000.0,29200000.0,0.3244444444444444,-67.55555555555556,1.0,FLOP
+Tamasha,2015,Romance,Imtiaz Ali,"Deepika Padukone, Ranbir Kapoor",870000000.0,1366387500.0,1.5705603448275862,57.05603448275862,3.2,AVERAGE
+Hate Story 3,2015,Adult/thriller,Vishal Pandya,"Zarine Khan, Daisy Shah, Sharman Joshi, Karan Singh Grover",200000000.0,622125000.0,3.110625,211.06250000000003,4.3,SUPER HIT
+Bajirao Mastani,2015,Romance,Sanjay Leela Bhansali,"Ranveer Singh, Deepika Padukone, Priyanka Chopra",1450000000.0,3562025000.0,2.4565689655172416,145.65689655172415,3.8,HIT
+Dilwale,2015,Action/romance,Rohit Shetty,"Shah Rukh Khan, Kajol, Varun Dhawan, Kriti Sanon",40000000.0,1031700000.0,25.7925,2479.25,5.0,BLOCKBUSTER
+Chhota Bheem Himalayan Adventures,2016,Animation,Rajiv Chilaka,Unknown,57500000.0,52100000.0,0.9060869565217391,-9.391304347826086,1.8,FLOP
+Wazir,2016,Thriller,Bejoy Nambiar,"Amitabh Bachchan, Farhan Akhtar, Aditi Rao Hydari, Manav Kaul, Neil Nitin Mukesh, John Abraham, Murali Sharma, Avtar Gill",360000000.0,757515000.0,2.1042083333333332,110.42083333333332,3.8,HIT
+Chalk n Duster,2016,Drama,Jayant Gilatar,"Shabana Azmi, Juhi Chawla, Divya Dutta, Zarina Wahab, Jackie Shroff, Arya Babbar, Richa Chadha",120000000.0,22200000.0,0.185,-81.5,1.0,FLOP
+Airlift,2016,War/Thriller,Raja Krishna Menon,"Akshay Kumar, Nimrat Kaur, Purab Kohli, Ferena Wazeir, Gunjan Malhotra",680000000.0,2099725000.0,3.0878308823529412,208.78308823529412,4.3,SUPER HIT
+Kyaa Kool Hain Hum 3,2016,Adult comedy,Umesh Ghadge,"Tushar Kapoor, Aftab Shivdasani, Mandana Karimi, Meghna Naidu, Darshan Jariwala, Krushna Abhishek, Claudia Ciesla, Riteish Deshmukh, Gizele Thakral, VJ Andy, Danny Saru",260000000.0,331425000.0,1.2747115384615384,27.471153846153847,2.5,AVERAGE
+Saala Khadoos,2016,Sports,Sudha Kongara Prasad,"R. Madhavan, Ritika Singh, Zakir Hussain",200000000.0,149500000.0,0.7475,-25.25,1.0,FLOP
+Mastizaade,2016,Adult comedy,Milap Milan Zaveri,"Tushar Kapoor, Vir Das, Sunny Leone, Shaad Randhawa, Riteish Deshmukh, Gizele Thakral, Bruna Abdullah",300000000.0,255960000.0,0.8532,-14.680000000000001,1.8,FLOP
+Sanam Teri Kasam,2016,Romance,"Radhika Rao, Vinay Sapru","Mawra Hocane, Harshvardhan Rane, Anurag Sinha, Shraddha Das",190000000.0,151725000.0,0.7985526315789474,-20.144736842105264,1.8,FLOP
+Ghayal: Once Again,2016,Action/drama,Sunny Deol,"Sunny Deol, Soha Ali Khan, Aanchal Munjal, Daina Khan, Shivam Patil, Rishabh Arora, Abhilash Kumar",500000000.0,453500000.0,0.907,-9.3,1.8,FLOP
+Fitoor,2016,Romance/drama,Abhishek Kapoor,"Aditya Roy Kapoor, Katrina Kaif, Tabu, Ajay Devgn, Aditi Rao Hydari, Akshay Oberoi, Lara Dutta, Rahul Bhatt",710000000.0,397825000.0,0.5603169014084507,-43.96830985915493,1.0,FLOP
+Sanam Re,2016,Romance,Divya Khosla Kumar,"Pulkit Samrat, Yami Gautam, Urvashi Rautela, Rishi Kapoor, Bharti Singh, Shreyas Pardiwalla",270000000.0,314550000.0,1.165,16.5,2.5,AVERAGE
+Direct Ishq,2016,Drama,Rajiv S. Ruia,"Rajneesh Duggal, Nidhi Subbaiah, Arjun Bijlani",220000000.0,5600000.0,0.025454545454545455,-97.45454545454545,1.0,FLOP
+LoveShhuda,2016,Romance,Vaibhav Mishra,"Girish Kumar, Navneet Kaur Dhillon, Benaf Dadachandji, Yash Pandit",220000000.0,42912500.0,0.1950568181818182,-80.49431818181819,1.0,FLOP
+Neerja,2016,Biopic/drama,Ram Madhvani,"Sonam Kapoor, Shabana Azmi, Shekhar Ravjiani",280000000.0,1187190000.0,4.239964285714286,323.99642857142857,4.8,BLOCKBUSTER
+Aligarh,2016,Biopic/drama,Hansal Mehta,"Manoj Bajpayee, Rajkummar Rao",110000000.0,37400000.0,0.34,-66.0,1.0,FLOP
+Tere Bin Laden: Dead or Alive,2016,Comedy,Abhishek Sharma,"Manish Paul, Sikander Kher, Pradhuman Singh, Sugandha Ram",130000000.0,58100000.0,0.4469230769230769,-55.3076923076923,1.0,FLOP
+Zubaan,2016,Drama,Mozez Singh,"Vicky Kaushal, Sarah Jane Dias, Raghav Chanana",80000000.0,5200000.0,0.065,-93.5,1.0,FLOP
+Jai Gangaajal,2016,Drama/comedy,Prakash Jha,"Priyanka Chopra, Anuj Aggarwal, Prakash Jha, Rahul Bhatt",330000000.0,495925000.0,1.5028030303030302,50.28030303030303,3.2,AVERAGE
+Teraa Surroor,2016,Action/thriller/romance,Shawn Arranha,"Himesh Reshammiya, Farah Karimi, Monica Dogra, Naseeruddin Shah, Shekhar Kapur",150000000.0,85400000.0,0.5693333333333334,-43.06666666666666,1.0,FLOP
+Kapoor & Sons,2016,Drama/comedy,Shakun Batra,"Sidharth Malhotra, Alia Bhatt, Fawad Khan, Rishi Kapoor, Sukant Goel",380000000.0,1432855000.0,3.7706710526315788,277.0671052631579,4.3,SUPER HIT
+Rocky Handsome,2016,Action,Nishikant Kamat,"John Abraham, Shruti Haasan, Nathalia Kaur",430000000.0,355818750.0,0.8274854651162791,-17.251453488372093,1.8,FLOP
+Ki & Ka,2016,Romantic comedy,R. Balki,"Kareena Kapoor Khan, Arjun Kapoor, Amitabh Bachchan, Jaya Bachchan",350000000.0,993000000.0,2.837142857142857,183.71428571428572,3.8,HIT
+Love Games,2016,Thriller,Vikram Bhatt,"Patralekha, Tara Alisha Berry, Gaurav Arora",100000000.0,43380000.0,0.4338,-56.620000000000005,1.0,FLOP
+Fan,2016,Action/drama/thriller,Maneesh Sharma,"Shah Rukh Khan, Waluscha de Sousa, Sayani Gupta, Shriya Pilgaonkar",300000000.0,1054800000.0,3.516,251.6,4.3,SUPER HIT
+Nil Battey Sannata,2016,Comedy/drama,Ashwini Iyer Tiwari,"Swara Bhaskar, Ratna Pathak, Pankaj Tripathi, Sanjay Suri",75000000.0,58300000.0,0.7773333333333333,-22.26666666666667,1.8,FLOP
+Laal Rang,2016,Action,Syed Ahmad Afzal,"Randeep Hooda, Akshay Oberoi, Rajneesh Duggal, Piaa Bajpai",100000000.0,26800000.0,0.268,-73.2,1.0,FLOP
+Baaghi,2016,Action,Sabbir Khan,"Tiger Shroff, Shraddha Kapoor, Sudheer Babu, Sunil Grover",57500000.0,64762500.0,1.126304347826087,12.630434782608695,2.5,AVERAGE
+One Night Stand,2016,Thriller,Jasmine Moses D'Souza,"Sunny Leone, Tanuj Virwani, Nyra Banerjee",170000000.0,48000000.0,0.2823529411764706,-71.76470588235294,1.0,FLOP
+Traffic,2016,Thriller,Rajesh Pillai,"Manoj Bajpayee, Jimmy Sheirgill, Divya Dutta, Kitu Gidwani, Prosenjit Chatterjee, Sachin Khedekar, Nikita Thukral, Vishal Singh, Jishnu Raghavan, Parambrata Chatterjee",52500000.0,121120000.0,2.3070476190476192,130.7047619047619,3.8,HIT
+1920: London,2016,Horror,Tinu Suresh Desai,"Sharman Joshi, Meera Chopra, Vishal Karwal",210000000.0,226800000.0,1.08,8.0,2.5,AVERAGE
+Azhar,2016,Biopic,Tony D'Souza,"Emraan Hashmi, Nargis Fakhri, Prachi Desai, Gautam Gulati, Kunaal Roy Kapur, Lara Dutta, Karanvir Sharma",400000000.0,499390000.0,1.248475,24.8475,2.5,AVERAGE
+Sarbjit,2016,Biopic,Omung Kumar,"Aishwarya Rai, Randeep Hooda, Richa Chadha",150000000.0,415000000.0,2.7666666666666666,176.66666666666666,3.8,HIT
+Phobia,2016,Thriller/horror,Pawan Kripalani,"Radhika Apte, Satyadeep Misra",85000000.0,52900000.0,0.6223529411764706,-37.76470588235294,1.0,FLOP
+Veerappan,2016,Action/biopic,Ram Gopal Varma,"Sandeep Bharadwaj, Lisa Ray, Sachiin Joshi, Usha Jadhav",140000000.0,90300000.0,0.645,-35.5,1.0,FLOP
+Housefull 3,2016,Comedy,Sajid-Farhad,"Akshay Kumar, Abhishek Bachchan, Riteish Deshmukh, Jacqueline Fernandez, Lisa Haydon, Nargis Fakhri, Nikitin Dheer, Jackie Shroff",970000000.0,1949350000.0,2.009639175257732,100.96391752577321,3.8,HIT
+Do Lafzon Ki Kahani,2016,Romantic,Deepak Tijori,"Randeep Hooda, Kajal Aggarwal",110000000.0,40900000.0,0.3718181818181818,-62.81818181818182,1.0,FLOP
+Te3n,2016,Thriller,Ribhu Dasgupta,"Amitabh Bachchan, Vidya Balan, Nawazuddin Siddiqui",340000000.0,337695000.0,0.9932205882352941,-0.6779411764705883,1.8,FLOP
+Udta Punjab,2016,Crime/drama,Abhishek Chaubey,"Shahid Kapoor, Alia Bhatt, Kareena Kapoor Khan, Diljit Dosanjh",470000000.0,960800000.0,2.0442553191489363,104.42553191489361,3.8,HIT
+Raman Raghav 2.0,2016,Crime/thriller,Anurag Kashyap,"Nawazuddin Siddiqui, Vicky Kaushal, Sobhita Dhulipala",100000000.0,106780000.0,1.0678,6.78,2.5,AVERAGE
+Junooniyat,2016,Romance,Vivek Agnihotri,"Pulkit Samrat, Yami Gautam, Gulshan Devaiah, Hrishita Bhatt",120000000.0,51300000.0,0.4275,-57.25,1.0,FLOP
+Sultan,2016,Sports/drama,Ali Abbas Zafar,"Salman Khan, Anushka Sharma, Randeep Hooda, Amit Sadh, Parikshit Sahni, Kumud Mishra",800000000.0,6070000000.0,7.5875,658.75,5.0,BLOCKBUSTER
+Great Grand Masti,2016,Sex comedy/horror,Indra Kumar,"Vivek Oberoi, Riteish Deshmukh, Aftab Shivdasani, Urvashi Rautela, Shraddha Das, Mishti, Pooja Bose, Sonali Raut, Shreyas Talpade",390000000.0,202262500.0,0.5186217948717948,-48.13782051282051,1.0,FLOP
+Dishoom,2016,Action,Rohit Dhawan,"John Abraham, Varun Dhawan, Jacqueline Fernandez, Saqib Saleem, Ram Kapoor, Akshaye Khanna, Parineeti Chopra",610000000.0,1187630000.0,1.9469344262295083,94.69344262295081,3.2,AVERAGE
+Mission Tiger,2016,Documentary,Dipu Karunakaran,"Vijay Raaz, T. R. Bijulal",4000000.0,250000.0,0.0625,-93.75,1.0,FLOP
+Fever,2016,Thriller,Rajeev Jhaveri,"Rajeev Khandelwal, Gauahar Khan, Gemma Atkinson, Victor Banerjee, Caterina Murino, Ankita Makwana",70000000.0,15300000.0,0.21857142857142858,-78.14285714285715,1.0,FLOP
+Mohenjo Daro,2016,Period drama,Ashutosh Gowariker,"Hrithik Roshan, Pooja Hegde, Kabir Bedi, Arunoday Singh, Sharad Kelkar",1380000000.0,1040750000.0,0.7541666666666667,-24.583333333333332,1.8,FLOP
+Rustom,2016,Romance/thriller,Tinu Suresh Desai,"Akshay Kumar, Ileana D'Cruz, Esha Gupta, Arjan Bajwa",730000000.0,2140070000.0,2.9316027397260274,193.16027397260274,3.8,HIT
+Happy Bhag Jayegi,2016,Comedy,Mudassar Aziz,"Abhay Deol, Diana Penty, Momal Sheikh, Ali Fazal, Jimmy Sheirgill",200000000.0,450000000.0,2.25,125.0,3.8,HIT
+A Flying Jatt,2016,Superhero/Action/comedy,Remo D'Souza,"Tiger Shroff, Jacqueline Fernandez, Nathan Jones, Kay Kay Menon, Amrita Singh",550000000.0,493368750.0,0.8970340909090909,-10.29659090909091,1.8,FLOP
+Akira,2016,Action/drama,A.R. Murugadoss,"Sonakshi Sinha, Konkona Sen Sharma, Raai Laxmi, Amit Sadh, Anurag Kashyap, Atul Kulkarni",320000000.0,438730000.0,1.37103125,37.103125,2.5,AVERAGE
+Baar Baar Dekho,2016,Drama/Romance,Nitya Mehra,"Katrina Kaif, Sidharth Malhotra, Ram Kapoor, Taaha Shah, Sarika, Sayani Gupta",530000000.0,626710000.0,1.1824716981132075,18.247169811320756,2.5,AVERAGE
+Freaky Ali,2016,Comedy/sports,Sohail Khan,"Nawazuddin Siddiqui, Arbaaz Khan, Amy Jackson, Jas Arora, Seema Biswas, Nikitin Dheer, Asif Basra, Paresh Ganatra, Alam Khan",230000000.0,208775000.0,0.9077173913043478,-9.228260869565217,1.8,FLOP
+Raaz: Reboot,2016,Horror,Vikram Bhatt,"Emraan Hashmi, Kriti Kharbanda, Gaurav Arora, Suzanna Mukherjee",310000000.0,421000000.0,1.3580645161290323,35.80645161290323,2.5,AVERAGE
+Pink,2016,Drama,Aniruddha Roy Chowdhury,"Amitabh Bachchan, Taapsee Pannu, Kirti Kulhari, Andrea Tariang, Angad Bedi",290000000.0,1088780000.0,3.7544137931034482,275.4413793103448,4.3,SUPER HIT
+Parched,2016,Drama,Leena Yadav,"Tannishtha Chatterjee, Radhika Apte, Surveen Chawla, Sayani Gupta",240000000.0,120300000.0,0.50125,-49.875,1.0,FLOP
+Banjo,2016,Comedy/drama,Ravi Jadhav,"Riteish Deshmukh, Nargis Fakhri, Dharmesh Yelande",270000000.0,121110000.0,0.44855555555555554,-55.14444444444444,1.0,FLOP
+M.S. Dhoni: The Untold Story,2016,Biopic/sports,Neeraj Pandey,"Sushant Singh Rajput, Anupam Kher, Herry Tangri, Kiara Advani, Disha Patani, Bhumika Chawla",1100000000.0,2150000000.0,1.9545454545454546,95.45454545454545,3.2,AVERAGE
+Mirzya,2016,Drama/romance,Rakeysh Omprakash Mehra,"Harshvardhan Kapoor, Saiyami Kher, Om Puri, Art Malik, K.K. Raina",630000000.0,134665000.0,0.21375396825396825,-78.62460317460317,1.0,FLOP
+MSG: The Warrior Lion Heart,2016,Adventure,"Gurmeet Ram Rahim Singh, Honeypreet Insan","Gurmeet Ram Rahim Singh, Honeypreet Insan, Charapreet Insan, Kainaat Insan, Garima Insan, Rajesh Insan, Sukhottam Insan, Ashok Insan, Bhushan Insan",180000000.0,176600000.0,0.9811111111111112,-1.8888888888888888,1.8,FLOP
+Tutak Tutak Tutiya,2016,Supernatural comedy,A. L. Vijay,"Prabhu Deva, Tamannaah, Sonu Sood",110000000.0,69405000.0,0.6309545454545454,-36.904545454545456,1.0,FLOP
+Anna,2016,Biographical,Shashank Udapurkar,"Shashank Udapurkar, Tanishaa Mukerji, Govind Namdeo, Rajit Kapur, Sharat Saxena, Kishor Kadam",67500000.0,51112500.0,0.7572222222222222,-24.27777777777778,1.8,FLOP
+Motu Patlu: King of Kings,2016,Animation/comedy/adventure,Suhas D. Kadavand,"Saurav Chakraborty, Omi Sharma",5000000.0,40000000.0,8.0,700.0,5.0,BLOCKBUSTER
+Love Day - Pyaar Ka Din,2016,Comedy thriller,"Sandeep Choudhary, Harish Kotian","Ajaz khan, Sahil anand, Harsh nagar, Anant Mahadevan, Vaibhav Mathur, Shalu Singh, Amit khanna, Devendra Chauhan",22500000.0,175000.0,0.0077777777777777776,-99.22222222222223,1.0,FLOP
+31st October,2016,Drama/thriller,Shivaji Lotan Patil,"Vir Das, Soha Ali Khan",70000000.0,13800000.0,0.19714285714285715,-80.28571428571428,1.0,FLOP
+Shivaay,2016,Drama/action,Ajay Devgn,"Ajay Devgn, Sayyeshaa, Erika Kaar, Ali Kazmi, Jabbz Farooqi, Vir Das, Bijou Thaangjam",1030000000.0,1241455000.0,1.2052961165048544,20.52961165048544,2.5,AVERAGE
+Ae Dil Hai Mushkil,2016,Drama,Karan Johar,"Ranbir Kapoor, Aishwarya Rai, Anushka Sharma",980000000.0,2295622500.0,2.3424719387755104,134.247193877551,3.8,HIT
+Rock On 2,2016,Drama,Sujaat Saudagar,"Farhan Akhtar, Arjun Rampal, Purab Kohli, Shraddha Kapoor, Prachi Desai, Shashank Arora, Shahana Goswami",450000000.0,177600000.0,0.39466666666666667,-60.53333333333333,1.0,FLOP
+Tum Bin II,2016,Romance,Anubhav Sinha,"Neha Sharma, Aditya Seal, Aashim Gulati",144000000.0,68000000.0,0.4722222222222222,-52.77777777777778,1.0,FLOP
+Force 2,2016,Action,Abhinay Deo,"John Abraham, Sonakshi Sinha, Tahir Raj Bhasin",410000000.0,526062500.0,1.2830792682926828,28.307926829268293,2.5,AVERAGE
+Dear Zindagi,2016,Drama,Gauri Shinde,"Alia Bhatt, Shah Rukh Khan, Ira Dubey, Kunal Kapoor",460000000.0,1389137500.0,3.0198641304347826,201.98641304347825,4.3,SUPER HIT
+Kahaani 2: Durga Rani Singh,2016,Thriller,Sujoy Ghosh,"Vidya Balan, Arjun Rampal, Jugal Hansraj",330000000.0,559400000.0,1.695151515151515,69.51515151515152,3.2,AVERAGE
+Befikre,2016,Romance,Aditya Chopra,"Ranveer Singh, Vaani Kapoor",640000000.0,1039875000.0,1.6248046875,62.48046874999999,3.2,AVERAGE
+Wajah Tum Ho,2016,Romance/drama,Vishal Pandya,"Sana Khan, Sharman Joshi, Gurmeet Choudhary, Rajneesh Duggal",140000000.0,135700000.0,0.9692857142857143,-3.0714285714285716,1.8,FLOP
+Dangal,2016,Biopic,Nitesh Tiwari,"Aamir Khan, Sakshi Tanwar, Fatima Sana Shaikh, Sanya Malhotra, Zaira Wasim",1320000000.0,7024750000.0,5.3217803030303035,432.17803030303037,5.0,BLOCKBUSTER
+Haraamkhor,2017,"Comedy, Crime",Shlok Sharma,"Nawazuddin Siddiqui, Shweta Tripathi",22500000.0,22700000.0,1.008888888888889,0.8888888888888888,2.5,AVERAGE
+Ok Jaanu,2017,"Romance, Drama",Shaad Ali,"Aditya Roy Kapur, Shraddha Kapoor",270000000.0,375020000.0,1.388962962962963,38.8962962962963,2.5,AVERAGE
+Coffee with D,2017,"Comedy, Crime",Vishal Mishra,"Sunil Grover, Anjana Sukhani, Zakir Hussain, Dippanita Sharma",80000000.0,7200000.0,0.09,-91.0,1.0,FLOP
+Kaabil,2017,"Action, Thriller",Sanjay Gupta,"Hrithik Roshan, Yami Gautam, Rohit Roy, Ronit Roy",890000000.0,1545140000.0,1.7361123595505619,73.61123595505617,3.2,AVERAGE
+Raees,2017,"Crime, Action",Rahul Dholakia,"Shah Rukh Khan, Mahira Khan, Nawazuddin Siddiqui, Mohammed Zeeshan Ayyub",1270000000.0,2725200000.0,2.1458267716535433,114.58267716535433,3.8,HIT
+Hind Ka Napak Ko Jawab: MSG Lion Heart 2,2017,"Action, Drama","Gurmeet Ram Rahim Singh, Honeypreet Insan","Gurmeet Ram Rahim Singh, Honeypreet Insan",120000000.0,107100000.0,0.8925,-10.75,1.8,FLOP
+Jolly LLB 2,2017,Drama,Subhash Kapoor,"Akshay Kumar, Huma Qureshi, Saurabh Shukla",830000000.0,1827342500.0,2.201617469879518,120.16174698795182,3.8,HIT
+The Great Leader Kanshiram,2017,Biopic,Arjun Singh,"Raghvendra Singh, Soma Goyal",4500000.0,75000.0,0.016666666666666666,-98.33333333333333,1.0,FLOP
+Running Shaadi,2017,Comedy,Amit Roy,"Taapsee Pannu, Amit Sadh",85000000.0,13400000.0,0.15764705882352942,-84.23529411764706,1.0,FLOP
+The Ghazi Attack,2017,Action,Sankalp Reddy,"Rana Daggubati, Taapsee Pannu, Kay Kay Menon, Atul Kulkarni",160000000.0,345325000.0,2.15828125,115.828125,3.8,HIT
+Irada,2017,"Thriller, Drama",Aparnaa Singh,"Naseeruddin Shah, Arshad Warsi, Sharad Kelkar, Divya Dutta",75000000.0,11200000.0,0.14933333333333335,-85.06666666666666,1.0,FLOP
+Rangoon,2017,"War, Drama",Vishal Bhardwaj,"Kangana Ranaut, Shahid Kapoor, Saif Ali Khan",610000000.0,405012500.0,0.6639549180327868,-33.60450819672131,1.0,FLOP
+Commando 2,2017,Action,Deven Bhojani,"Vidyut Jammwal, Adah Sharma, Esha Gupta",260000000.0,340350000.0,1.3090384615384616,30.903846153846153,2.5,AVERAGE
+Badrinath Ki Dulhania,2017,"Romance, Comedy",Shashank Khaitan,"Varun Dhawan, Alia Bhatt, Sahil Vaid, Rituraj Singh",440000000.0,1948152500.0,4.427619318181818,342.76193181818184,4.8,BLOCKBUSTER
+Aa Gaya Hero,2017,"Action, Comedy",Dipankar Senapati,"Govinda, Ashutosh Rana, Murali Sharma",85000000.0,13900000.0,0.1635294117647059,-83.6470588235294,1.0,FLOP
+Trapped,2017,"Drama, Thriller",Vikramaditya Motwane,"Rajkummar Rao, Geetanjali Thapa, Khushboo Upadhyay",50000000.0,35300000.0,0.706,-29.4,1.0,FLOP
+Machine,2017,"Romance, Thriller",Abbas–Mustan,"Mustafa Burmawalla, Kiara Advani",300000000.0,34847500.0,0.11615833333333334,-88.38416666666666,1.0,FLOP
+Phillauri,2017,"Romance, Comedy",Anshai Lal,"Anushka Sharma, Diljit Dosanjh, Suraj Sharma, Mehreen Pirzada",290000000.0,466075000.0,1.6071551724137931,60.71551724137932,3.2,AVERAGE
+Anaarkali of Aarah,2017,Drama,Avinash Das,Swara Bhaskar,57500000.0,14800000.0,0.2573913043478261,-74.26086956521739,1.0,FLOP
+Naam Shabana,2017,Action/thriller,Shivam Nair,"Taapsee Pannu, Prithviraj Sukumaran & Akshay Kumar",330000000.0,559900000.0,1.6966666666666668,69.66666666666667,3.2,AVERAGE
+Poorna: Courage Has No Limit,2017,Adventure,Rahul Bose,"Aditi Inamdar, Rahul Bose & Heeba Shah",37500000.0,37100000.0,0.9893333333333333,-1.0666666666666667,1.8,FLOP
+Begum Jaan,2017,Period drama,Srijit Mukherji,"Vidya Balan, Ila Arun, Gauahar Khan, Sumit Nijhawan & Chunky Pandey",190000000.0,306190000.0,1.6115263157894737,61.15263157894737,3.2,AVERAGE
+Noor,2017,Comedy/drama,Sunhil Sippy,"Sonakshi Sinha, Purab Kohli & Manish Chaudhary",240000000.0,118452500.0,0.49355208333333334,-50.64479166666666,1.0,FLOP
+Ek Thi Rani Aisi Bhi,2017,Biopic,Gulbahar Singh,"Hema Malini, Vinod Khanna, Sachin Khedekar",4000000.0,875000.0,0.21875,-78.125,1.0,FLOP
+Maatr,2017,Thriller/drama,Ashtar Sayed,Raveena Tandon,85000000.0,16200000.0,0.19058823529411764,-80.94117647058823,1.0,FLOP
+Ajab Singh Ki Gajab Kahani,2017,Thriller/drama,Rishi Prakash Mishra,"Yashpal Sharma, Ajay Kumar Singh, Rajesh Jais",30000000.0,17500000.0,0.5833333333333334,-41.66666666666667,1.0,FLOP
+Meri Pyaari Bindu,2017,Romance,Akshay Roy,Ayushmann Khurrana & Parineeti Chopra,220000000.0,177910000.0,0.8086818181818182,-19.131818181818183,1.8,FLOP
+Sarkar 3,2017,Political crime thriller,Ram Gopal Varma,"Amitabh Bachchan, Jackie Shroff, Amit Sadh & Yami Gautam",360000000.0,205380000.0,0.5705,-42.95,1.0,FLOP
+Half Girlfriend,2017,Romance/drama,Mohit Suri,Arjun Kapoor & Shraddha Kapoor,580000000.0,864755000.0,1.4909568965517241,49.095689655172414,2.5,AVERAGE
+Jattu Engineer,2017,Comedy,"Gurmeet Ram Rahim Singh, Honeypreet Insan","Gurmeet Ram Rahim Singh, Sukhottam Insan",90000000.0,99724500.0,1.10805,10.805,2.5,AVERAGE
+Hindi Medium,2017,Comedy/drama,Saket Chaudhary,Irrfan Khan & Saba Qamar,230000000.0,918550000.0,3.993695652173913,299.3695652173913,4.3,SUPER HIT
+Sachin: A Billion Dreams,2017,Biopic,James Erskine,Sachin Tendulkar,390000000.0,745600000.0,1.9117948717948718,91.17948717948718,3.2,AVERAGE
+Hanuman: Da' Damdaar,2017,Animation,Ruchi Narain,"Salman Khan, Raveena Tandon & Kunal Khemu",26000000.0,15500000.0,0.5961538461538461,-40.38461538461539,1.0,FLOP
+Dobaara: See Your Evil,2017,Horror,Prawaal Raman,Huma Qureshi & Saqib Saleem,100000000.0,18900000.0,0.189,-81.10000000000001,1.0,FLOP
+Dear Maya,2017,Thriller/drama,Sunaina Bhatnagar,Manisha Koirala,26400000.0,2200000.0,0.08333333333333333,-91.66666666666666,1.0,FLOP
+Raabta,2017,Romance/thriller,Dinesh Vijan,"Sushant Singh Rajput, Kriti Sanon & Jim Sarbh",470000000.0,336986250.0,0.7169920212765958,-28.30079787234043,1.0,FLOP
+Behen Hogi Teri,2017,Romance/comedy,Ajay K Pannalal,Rajkummar Rao & Shruti Haasan,130000000.0,30600000.0,0.2353846153846154,-76.46153846153845,1.0,FLOP
+Bank Chor,2017,Comedy/Thriller,Bumpy,"Riteish Deshmukh, Vivek Oberoi & Rhea Chakraborty",150000000.0,98500000.0,0.6566666666666666,-34.333333333333336,1.0,FLOP
+Tubelight,2017,Action/drama,Kabir Khan,"Salman Khan, Sohail Khan & Zhu Zhu",1350000000.0,2079900000.0,1.5406666666666666,54.06666666666666,3.2,AVERAGE
+Ek Haseena Thi Ek Deewana Tha,2017,Romance,Suneel Darshan,"Shiv Darshan, Natasha Fernandez & Upen Patel",140000000.0,16700000.0,0.11928571428571429,-88.07142857142857,1.0,FLOP
+Mom,2017,Thriller/drama,Ravi Udyawar,"Sridevi, Akshaye Khanna, Sajal Ali & Nawazuddin Siddiqui",370000000.0,565740000.0,1.529027027027027,52.9027027027027,3.2,AVERAGE
+Guest iin London,2017,Comedy,Ashwni Dhir,"Kartik Aaryan, Kriti Kharbanda, Paresh Rawal & Tanvi Azmi",280000000.0,106400000.0,0.38,-62.0,1.0,FLOP
+Jagga Jasoos,2017,Comedy/romance,Anurag Basu,Ranbir Kapoor & Katrina Kaif,1310000000.0,868572500.0,0.6630324427480916,-33.69675572519084,1.0,FLOP
+Shab,2017,Drama,Onir,"Raveena Tandon, Sanjay Suri, Ashish Bisht, Arpita Pal, Simon Frenay, Raj Suri, Gaurav Nanda",95000000.0,107012500.0,1.1264473684210525,12.644736842105264,2.5,AVERAGE
+Lipstick Under My Burkha,2017,Sex/drama,Alankrita Shrivastava,"Konkona Sen Sharma, Ratna Pathak Shah & Aahana Kumra",70000000.0,215600000.0,3.08,208.0,4.3,SUPER HIT
+Munna Michael,2017,Action/romance,Sabbir Khan,"Tiger Shroff, Nawazuddin Siddiqui & Nidhi Agerwal",410000000.0,482800000.0,1.177560975609756,17.756097560975608,2.5,AVERAGE
+Raag Desh,2017,Period drama/action,Tigmanshu Dhulia,"Kunal Kapoor, Amit Sadh & Mohit Marwah",9500000.0,11800000.0,1.2421052631578948,24.210526315789473,2.5,AVERAGE
+Indu Sarkar,2017,Drama,Madhur Bhandarkar,"Anupam Kher, Neil Nitin Mukesh, Kirti Kulhari, Tota Roy Chowdhury, Supriya Vinod, Sheeba Chaddha, Parvin Dabas",120000000.0,60700000.0,0.5058333333333334,-49.416666666666664,1.0,FLOP
+Mubarakan,2017,Comedy/romance,Anees Bazmee,"Anil Kapoor, Arjun Kapoor, Ileana D'Cruz, Neha Sharma & Athiya Shetty",650000000.0,899330000.0,1.3835846153846154,38.35846153846153,2.5,AVERAGE
+Jab Harry Met Sejal,2017,Romance,Imtiaz Ali,"Shah Rukh Khan, Anushka Sharma, Evelyn Sharma & Chandan Roy Sanyal",1190000000.0,1477580000.0,1.2416638655462184,24.166386554621848,2.5,AVERAGE
+Toilet: Ek Prem Katha,2017,Comedy/drama,Shree Narayan Singh,"Akshay Kumar, Bhumi Pednekar, Divyendu Sharma, Anupam Kher, Sana Khan",180000000.0,3080200000.0,17.112222222222222,1611.2222222222222,5.0,BLOCKBUSTER
+Partition: 1947,2017,Drama,Gurinder Chadha,"Hugh Bonneville, Gillian Anderson, Manish Dayal, Huma Qureshi, Michael Gambon",747200000.0,1046100000.0,1.400026766595289,40.00267665952891,2.5,AVERAGE
+Bareilly Ki Barfi,2017,Comedy/romance,Ashwini Iyer Tiwari,"Ayushmann Khurrana, Rajkummar Rao, Kriti Sanon",200000000.0,548960000.0,2.7448,174.48,3.8,HIT
+A Gentleman,2017,Action/romance,Raj and D.K.,"Sidharth Malhotra, Jacqueline Fernandez, Darshan Kumar, Suniel Shetty",670000000.0,334900000.0,0.4998507462686567,-50.01492537313433,1.0,FLOP
+Babumoshai Bandookbaaz,2017,Action,Kushan Nandy,"Nawazuddin Siddiqui, Bidita Bag, Jatin Goswami, Shraddha Das, Anil George, Bhagwan Tiwari, Jeetu Shivhare, Murali Sharma, Divya Dutta, Sachin Chaubey",100000000.0,126200000.0,1.262,26.200000000000003,2.5,AVERAGE
+Qaidi Band,2017,Musical/drama,Habib Faisal,"Aadar Jain, Anya Singh, Sachin, Prince Parvinder Singh",210000000.0,4500000.0,0.02142857142857143,-97.85714285714285,1.0,FLOP
+Baadshaho,2017,Action/crime Thriller,Milan Luthria,"Ajay Devgn, Emraan Hashmi, Vidyut Jammwal, Ileana D'Cruz, Esha Gupta, Sanjay Mishra, Sunny Leone Guest appearance in song, Sharad Kelkar, Ravi Kale",900000000.0,1011820000.0,1.1242444444444444,12.424444444444445,2.5,AVERAGE
+Shubh Mangal Saavdhan,2017,Drama/Comedy,R. S. Prasanna,"Ayushmann Khurrana, Bhumi Pednekar, Brijendra Kala, Shubhankar Tripathi, Anshul Chauhan, Anmol Bajaj",250000000.0,640220000.0,2.56088,156.088,3.8,HIT
+Poster Boys,2017,Comedy,Shreyas Talpade,"Sunny Deol, Shreyas Talpade, Bobby Deol, Sonali Kulkarni, Randheer Rai, Dilip Prabhavalkar, Elli AvrRam Special Appearance In A Song, Samiksha Bhatnagar, Bharati Achrekar",270000000.0,170881250.0,0.6328935185185185,-36.71064814814815,1.0,FLOP
+Daddy,2017,Crime/drama,Ashim Ahluwalia,"Arjun Rampal, Aishwarya Rajesh, Nishikant Kamat, Anand Ingale, Rajesh Shringarpure, Purnanand Wandekar, Anupriya Goenka, Shruti Bapna, Usha Naik, Shrikant Yadav, Deepak Damle, Raj Arjun, Vijay Sanap, Abhimanyu Arun",130000000.0,63730000.0,0.49023076923076925,-50.97692307692307,1.0,FLOP
+Simran,2017,Drama,Hansal Mehta,"Kangana Ranaut, Sohum Shah, Hiten Kumar, Kishori Shahane, Rupinder Nagra",280000000.0,263025000.0,0.939375,-6.0625,1.8,FLOP
+Lucknow Central,2017,Drama,Ranjit Tiwari,"Farhan Akhtar, Diana Penty, Deepak Dobriyal, Gippy Grewal, Ronit Roy, Inaamulhaq, Rajesh Sharma",300000000.0,179356250.0,0.5978541666666667,-40.21458333333333,1.0,FLOP
+Patel Ki Punjabi Shaadi,2017,Comedy/drama,Sanjay Chhel,"Rishi Kapoor, Paresh Rawal, Vir Das, Prem Chopra, Payal Ghosh, Jinal Belani, Divya Seth, Bharati Achrekar, Tiku Talsania",110000000.0,25356250.0,0.23051136363636363,-76.94886363636364,1.0,FLOP
+Newton,2017,Dark comedy,Amit Masurkar,"Rajkummar Rao, Pankaj Tripathi, Anjali Patil, Raghuvir Yadav",100000000.0,291200000.0,2.912,191.2,3.8,HIT
+Bhoomi,2017,Action/drama,Omung Kumar,"Sanjay Dutt, Aditi Rao Hydari, Sidhant Gupta",310000000.0,153775000.0,0.4960483870967742,-50.39516129032258,1.0,FLOP
+Haseena Parkar,2017,Biographic,Apoorva Lakhia,"Shraddha Kapoor, Sharman Joshi, Siddhanth Kapoor, Rajesh Tailang, Satendra Bagasi, Ankur Bhatia",180000000.0,90675000.0,0.50375,-49.625,1.0,FLOP
+Judwaa 2,2017,Action/comedy,David Dhawan,"Varun Dhawan, Jacqueline Fernandez, Vikas Verma, Taapsee Pannu, Anupam Kher, Sachin Khedekar, Upasana Singh, Rajpal Yadav, Pavan Malhotra, Ali Asgar, Vivan Bhatena, Johnny Lever, Rajat Rawail, Salman Khan (cameo)",630000000.0,2066477500.0,3.280123015873016,228.01230158730158,4.3,SUPER HIT
+Chef,2017,Comedy,Raja Krishna Menon,"Saif Ali Khan, Padmapriya Janakiraman & Dhanish Karthik",310000000.0,105495000.0,0.34030645161290324,-65.96935483870968,1.0,FLOP
+Ranchi Diaries,2017,Drama/thriller,Sattwik Mohanty,"Jimmy Sheirgill, Taaha Shah & Himansh Kohli",42500000.0,11100000.0,0.2611764705882353,-73.88235294117646,1.0,FLOP
+Secret Superstar,2017,Musical drama,Advait Chandan,"Zaira Wasim, Meher Vij & Aamir Khan",450000000.0,1225350000.0,2.723,172.3,3.8,HIT
+Golmaal Again,2017,Comedy,Rohit Shetty,"Ajay Devgn, Parineeti Chopra, Tabu, Arshad Warsi, Tusshar Kapoor, Shreyas Talpade, Kunal Khemu, Prakash Raj, Rohit KaduDeshmukh and Neil Nitin Mukesh",1420000000.0,3109800000.0,2.19,119.0,3.8,HIT
+Jia aur Jia,2017,Road film,Howard Rosemeyer,"Kalki Koechlin, Richa Chaddha",12900000.0,9300000.0,0.7209302325581395,-27.906976744186046,1.0,FLOP
+Ittefaq,2017,Thriller,Abhay Chopra,"Sidharth Malhotra, Sonakshi Sinha & Akshaye Khanna",40000000.0,32941750.0,0.82354375,-17.645625000000003,1.8,FLOP
+Ribbon,2017,Drama,Rakhee Sandilya,"Kalki Koechlin, Sumeet Vyas, Hitesh Malhan",100000000.0,5300000.0,0.053,-94.69999999999999,1.0,FLOP
+Shaadi Mein Zaroor Aana,2017,Romance/drama,Ratnaa Sinha,"Rajkummar Rao, Kriti Kharbanda",130000000.0,194700000.0,1.4976923076923077,49.769230769230774,2.5,AVERAGE
+Qarib Qarib Singlle,2017,Romance/comedy,Tanuja Chandra,"Irrfan Khan, Parvathy, Brijendra Kala",170000000.0,210300000.0,1.2370588235294118,23.705882352941178,2.5,AVERAGE
+Aksar 2,2017,Thriller,Ananth Narayan Mahadevan,"Zareen Khan, Gautam Rode, Abhinav Shukla, Mohit Madaan",90000000.0,63600000.0,0.7066666666666667,-29.333333333333332,1.0,FLOP
+Tumhari Sulu,2017,Social/Comedy,Suresh Triveni,Vidya Balan & Manav Kaul,200000000.0,513900000.0,2.5695,156.95,3.8,HIT
+Julie 2,2017,Erotic thriller,Deepak Shivdasani,"Raai Laxmi, Ravi Kishan & Aditya Srivastava",85000000.0,33100000.0,0.38941176470588235,-61.05882352941177,1.0,FLOP
+Ajji,2017,Drama,Devashish Makhija,"Sudhir Pandey, Sushma Deshpande",35000000.0,850000.0,0.024285714285714285,-97.57142857142857,1.0,FLOP
+Kadvi Hawa,2017,Drama/disaster,Nila Madhab Panda,"Sanjay Mishra, Ranvir Shorey, Tillotama Shome, Bupesh Singh, Ekta Sawant",100000000.0,3500000.0,0.035,-96.5,1.0,FLOP
+Tera Intezaar,2017,Romantic thriller,Raajeev Waalia,Arbaaz Khan & Sunny Leone,110000000.0,23900000.0,0.21727272727272728,-78.27272727272727,1.0,FLOP
+Firangi,2017,Comedy,Rajiv Dhingra,"Kapil Sharma, Varun Badola & Edward Sonnenblick",400000000.0,166040000.0,0.4151,-58.489999999999995,1.0,FLOP
+Fukrey Returns,2017,Comedy,Mrighdeep Singh Lamba,"Pulkit Samrat, Priya Anand, Ali Fazal, Varun Sharma",290000000.0,1122805000.0,3.871741379310345,287.1741379310345,4.3,SUPER HIT
+Game Over,2017,Suspense/thriller,Paresh Vinodray Savani,"Rajesh Sharma, Yashpal Sharma, Gurleen Chopra",50000000.0,3900000.0,0.078,-92.2,1.0,FLOP
+Monsoon Shootout,2017,Crime/thriller,Amit Kumar,"Nawazuddin Siddiqui, Vijay Varma & Tannishtha Chatterjee",120000000.0,9000000.0,0.075,-92.5,1.0,FLOP
+Tiger Zinda Hai,2017,Action/drama,Ali Abbas Zafar,Salman Khan & Katrina Kaif,2100000000.0,5651020000.0,2.6909619047619047,169.09619047619046,3.8,HIT
+1921,2018,"Horror, Thriller, Mystery",Vikram Bhatt,"Zareen Khan, Karan Kundra, Tobby Hinston, Sonia Armstrong",150000000.0,223675000.0,1.4911666666666668,49.11666666666667,2.5,AVERAGE
+Kaalakaandi,2018,"Comedy, Drama, Thriller",Akshat Verma,"Saif Ali Khan, Isha Talwar, Shenaz Treasury, Akshay Oberoi, Vijay Raaz, Deepak Dobriyal, Sobhita Dhulipala, Kunaal Roy Kapur, Nary Singh",180000000.0,61500000.0,0.3416666666666667,-65.83333333333333,1.0,FLOP
+Mukkabaaz,2018,"Drama, Sports, Action",Anurag Kashyap,"Vineet Kumar Singh, Zoya Hussain, Ravi Kishan, Jimmy Sheirgill",120000000.0,149450000.0,1.2454166666666666,24.541666666666668,2.5,AVERAGE
+Vodka Diaries,2018,"Thriller, Mystery, Drama",Kushal Srivastava,"Kay Kay Menon, Mandira Bedi, Raima Sen, Sharib Hashmi",70000000.0,12600000.0,0.18,-82.0,1.0,FLOP
+Union Leader,2018,"Drama, Political, Social",Sanjay Patel,"Rahul Bhat, Tillotama Shome",50000000.0,225000.0,0.0045,-99.55000000000001,1.0,FLOP
+Padmaavat,2018,"Historical drama, Musical, Romance, Action",Sanjay Leela Bhansali,"Shahid Kapoor, Deepika Padukone, Ranveer Singh, Aditi Rao Hydari",2150000000.0,5459290000.0,2.5392046511627906,153.92046511627905,3.8,HIT
+Pad Man,2018,"Drama, Comedy, Biographical",R. Balki,"Akshay Kumar, Sonam Kapoor, Radhika Apte",760000000.0,1280932500.0,1.6854375,68.54375,3.2,AVERAGE
+Aiyaary,2018,"Action, Thriller, Drama",Neeraj Pandey,"Sidharth Malhotra, Manoj Bajpayee, Rakul Preet Singh, Pooja Chopra, Anupam Kher, Naseeruddin Shah",570000000.0,327385000.0,0.574359649122807,-42.5640350877193,1.0,FLOP
+Jaane Kyun De Yaaron,2018,"Drama, Comedy, Romance",Akshay Anand,"Raghu Raja, Abhishek Sharma, Kabir Bedi, Chetna Pande, Viju Khote",40000000.0,450000.0,0.01125,-98.875,1.0,FLOP
+Sonu Ke Titu Ki Sweety,2018,"Comedy, Romance, Drama",Luv Ranjan,"Kartik Aaryan, Nushrat Bharucha, Sunny Nijar",400000000.0,1480500000.0,3.70125,270.125,4.3,SUPER HIT
+Pari,2018,"Horror, Thriller, Drama",Prosit Roy,"Anushka Sharma, Parambrata Chatterjee, Rajat Kapoor, Ritabhari Chakraborty, Mansi Multani",170000000.0,326325000.0,1.9195588235294119,91.95588235294117,3.2,AVERAGE
+Veerey Ki Wedding,2018,"Comedy, Romance, Drama",Ashu Trikha,"Pulkit Samrat, Jimmy Sheirgill, Kriti Kharbanda, Satish Kaushik, Yuvika Chaudhary, Supriya Karnik",160000000.0,50956250.0,0.3184765625,-68.15234375,1.0,FLOP
+Hate Story IV,2018,"Thriller, Drama, Romance",Vishal Pandya,"Urvashi Rautela, Vivan Bhatena, Karan Wahi, Ihana Dhillon, Gulshan Grover, Tia Bajpai, Shaad Randhawa",210000000.0,210000000.0,1.0,0.0,2.5,AVERAGE
+Dil Juunglee,2018,"Romantic Comedy, Drama",Aleya Sen,"Saqib Saleem, Tapsee Pannu, Abhilash Thapleyal, Nidhi Singh, Srishti Srivastava, Ayesha Khaduskar",10000000.0,19537500.0,1.95375,95.375,3.2,AVERAGE
+3 Storeys,2018,"Drama, Thriller, Mystery",Arjun Mukerjee,"Richa Chaddha, Pulkit Samrat, Sharman Joshi, Renuka Shahane, Masumeh Makhija, Laksh Singh, Aisha Ahmed, Ankit Rathi",110000000.0,31947500.0,0.2904318181818182,-70.95681818181818,1.0,FLOP
+Raid,2018,"Action, Drama, Thriller",Raj Kumar Gupta,"Ajay Devgn, Ileana D'Cruz, Saurabh Shukla",720000000.0,1457195000.0,2.0238819444444442,102.38819444444445,3.8,HIT
+Hichki,2018,"Drama, Comedy, Inspirational",Siddharth P Malhotra,Rani Mukerji,200000000.0,769965000.0,3.849825,284.9825,4.3,SUPER HIT
+Shaadi Teri Bajayenge Hum Band,2018,"Comedy, Drama, Musical",Gurpreet Sondh,"Rajpal Yadav, Mushtaq Khan, Rahul Bagga, Rohit Kumar, Dilbagh Singh, Naresh Gosain, Afreen Alvi, Radha Bhatt",50000000.0,1700000.0,0.034,-96.6,1.0,FLOP
+Baaghi 2,2018,"Action, Thriller, Drama",Ahmed Khan,"Tiger Shroff, Disha Patani, Manoj Bajpayee, Randeep Hooda, Prateik Babbar",590000000.0,2510500000.0,4.255084745762712,325.50847457627117,4.8,BLOCKBUSTER
+Blackmail,2018,"Comedy, Thriller",Abhinay Deo,"Irrfan Khan, Kirti Kulhari, Arunoday Singh, Divya Dutta, Omi Vaidya",95000000.0,65872500.0,0.6933947368421053,-30.660526315789472,1.0,FLOP
+October,2018,"Drama, Romance",Shoojit Sircar,"Varun Dhawan, Banita Sandhu, Gitanjali Rao",330000000.0,549847500.0,1.6662045454545455,66.62045454545455,3.2,AVERAGE
+Beyond the Clouds,2018,"Drama, Romance, Coming-of-Age",Majid Majidi,"Ishaan Khatter, Malavika Mohanan",60000000.0,28656250.0,0.47760416666666666,-52.23958333333333,1.0,FLOP
+Nanu Ki Jaanu,2018,"Comedy, Horror, Romance",Faraz Haider,"Patralekhaa, Abhay Deol, Sapna Chaudhary",150000000.0,56800000.0,0.37866666666666665,-62.133333333333326,1.0,FLOP
+Daas Dev,2018,"Drama, Thriller, Political",Sudhir Mishra,"Richa Chaddha, Aditi Rao Hydari, Rahul Bhat, Saurabh Shukla, Vipin Sharma, Vineet Kumar Singh, Dalip Tahil, Anurag Kashyap",200000000.0,19000000.0,0.095,-90.5,1.0,FLOP
+102 Not Out,2018,"Comedy, Drama",Umesh Shukla,"Amitabh Bachchan, Rishi Kapoor",350000000.0,847090000.0,2.420257142857143,142.0257142857143,3.8,HIT
+Omerta,2018,"Crime, Thriller, Drama",Hansal Mehta,Rajkummar Rao,120000000.0,44985000.0,0.374875,-62.5125,1.0,FLOP
+Raazi,2018,"Thriller, Drama, Spy",Meghna Gulzar,"Vicky Kaushal, Alia Bhatt",380000000.0,1935775000.0,5.094144736842106,409.4144736842106,5.0,BLOCKBUSTER
+High Jack,2018,"Comedy, Drama, Thriller",Akash Khurana,"Sumeet Vyas, Sonnalli Seygall, Mantra, Taaruk Raina, Priyanshu Painyuli, Kumud Mishra, Natasha Rastogi",70000000.0,4400000.0,0.06285714285714286,-93.71428571428572,1.0,FLOP
+Khajoor Pe Atke,2018,"Comedy, Drama",Harsh Chhaya,"Vinay Pathak, Manoj Pahwa, Seema Pahwa, Dolly Ahluwalia, Sabah Kapoor",50000000.0,7100000.0,0.142,-85.8,1.0,FLOP
+Parmanu: The Story Of Pokhran,2018,"Drama, Thriller, History",Abhishek Sharma,"John Abraham, Diana Penty, Boman Irani",440000000.0,908910000.0,2.0657045454545453,106.57045454545455,3.8,HIT
+Bioscopewala,2018,"Drama, Adventure, Family",Deb Medhekar,"Danny Denzongpa, Geetanjali Thapa, Tisca Chopra, Adil Hussain",40000000.0,5463000.0,0.136575,-86.3425,1.0,FLOP
+Veere Di Wedding,2018,"Comedy, Drama, Romance",Shashanka Ghosh,"Kareena Kapoor, Sonam Kapoor, Swara Bhaskar, Shikha Talsania, Sumeet Vyas",420000000.0,1379795000.0,3.2852261904761906,228.52261904761906,4.3,SUPER HIT
+Bhavesh Joshi Superhero,2018,"Action, Drama, Superhero",Vikramaditya Motwane,"Harshvardhan Kapoor, Priyanshu Painyuli, Nishikant Kamat",210000000.0,25225000.0,0.12011904761904763,-87.98809523809524,1.0,FLOP
+Race 3,2018,"Action, Thriller, Drama, Crime",Remo D'Souza,"Anil Kapoor, Bobby Deol, Daisy Shah, Freddy Daruwala, Jacqueline Fernandez, Salman Khan, Saqib Saleem",1850000000.0,3051580000.0,1.6495027027027027,64.95027027027027,3.2,AVERAGE
+Sanju,2018,"Biography, Drama",Rajkumar Hirani,Ranbir Kapoor,960000000.0,5784462500.0,6.025481770833333,502.5481770833333,5.0,BLOCKBUSTER
+Soorma,2018,"Biographical, Sports, Drama",Shaad Ali,"Diljit Dosanjh, Taapsee Pannu, Angad Bedi",310000000.0,480790000.0,1.5509354838709677,55.09354838709677,3.2,AVERAGE
+Dhadak,2018,"Romance, Drama",Shashank Khaitan,"Ishaan Khatter, Jhanvi Kapoor",410000000.0,1117870000.0,2.726512195121951,172.65121951219513,3.8,HIT
+"Saheb, Biwi Aur Gangster 3",2018,"Action, Drama, Thriller, Crime",Tigmanshu Dhulia,"Sanjay Dutt, Jimmy Sheirgill, Mahi Gill, Chitrangada Singh, Soha Ali Khan",280000000.0,101970000.0,0.3641785714285714,-63.582142857142856,1.0,FLOP
+Nawabzaade,2018,"Comedy, Romance, Musical",Jayesh Pradhan,"Raghav Juyal, Punit Pathak, Dharmesh Yelande, Isha Rikhi",100000000.0,53900000.0,0.539,-46.1,1.0,FLOP
+Fanney Khan,2018,"Comedy, Drama, Musical",Atul Manjrekar,"Anil Kapoor, Aishwarya Rai Bachchan, Rajkummar Rao, Karan Singh Chhabra, Divya Dutta",390000000.0,131600000.0,0.3374358974358974,-66.25641025641026,1.0,FLOP
+Mulk,2018,"Drama, Thriller, Social Issues",Anubhav Sinha,"Rishi Kapoor, Prateik Babbar, Rajat Kapoor, Taapsee Pannu, Ashutosh Rana, Manoj Pahwa, Neena Gupta",190000000.0,306480000.0,1.6130526315789473,61.30526315789474,3.2,AVERAGE
+Karwaan,2018,"Comedy, Drama, Road Movie",Akarsh Khurana,"Irrfan Khan, Dulquer Salman, Mithila Palkar, Kriti Kharbanda",230000000.0,255800000.0,1.1121739130434782,11.217391304347826,2.5,AVERAGE
+Gold,2018,"Drama, Sports, History",Reema Kagti,"Akshay Kumar, Kunal Kapoor, Mouni Roy, Amit Sadh",5000000.0,85000.0,0.017,-98.3,1.0,FLOP
+Satyameva Jayate,2018,"Action, Drama, Thriller",Milap Zaveri,"John Abraham, Manoj Bajpayee, Aisha Sharma, Amruta Khanvilkar",450000000.0,1082500000.0,2.4055555555555554,140.55555555555554,3.8,HIT
+Genius,2018,"Action, Drama, Thriller",Anil Sharma,"Utkarsh Sharma, Ishita Chauhan, Nawazuddin Siddiqui, Ayesha Jhulka",250000000.0,52800000.0,0.2112,-78.88,1.0,FLOP
+Happy Phirr Bhag Jayegi,2018,"Comedy, Romance, Drama",Mudassar Aziz,"Sonakshi Sinha, Diana Penty, Ali Fazal, Jimmy Shergill, Jassi Gill",300000000.0,244100000.0,0.8136666666666666,-18.633333333333333,1.8,FLOP
+Yamla Pagla Deewana: Phir Se,2018,"Comedy, Action, Drama",Navaniat Singh,"Dharmendra, Sunny Deol, Bobby Deol, Kriti Kharbanda",360000000.0,154052500.0,0.4279236111111111,-57.20763888888889,1.0,FLOP
+Stree,2018,"Horror, Comedy, Thriller",Amar Kaushik,"Rajkummar Rao, Shraddha Kapoor, Aparshakti Khurana, Pankaj Tripathi",240000000.0,1716800000.0,7.153333333333333,615.3333333333334,5.0,BLOCKBUSTER
+Paltan,2018,"War, Drama, Action",J. P. Dutta,"Jackie Shroff, Sonu Sood, Arjun Rampal, Gurmeet Choudhary, Siddhanth Kapoor, Harshvardhan Rane, Luv Sinha, Esha Gupta, Monica Gill, Sonal Chauhan, Dipika Kakar, Aditii Arya Sharma",350000000.0,105692500.0,0.30197857142857143,-69.80214285714285,1.0,FLOP
+Laila Majnu,2018,"Romance, Drama",Sajid Ali,"Mir Sarwar, Avinash Tiwary, Tripti Dimri, Ruchika Kapoor",100000000.0,27600000.0,0.276,-72.39999999999999,1.0,FLOP
+Manmarziyaan,2018,"Romance, Drama",Anurag Kashyap,"Abhishek Bachchan, Vicky Kaushal, Taapsee Pannu",280000000.0,416800000.0,1.4885714285714287,48.857142857142854,2.5,AVERAGE
+Love Sonia,2018,"Drama, Thriller, Social Issues",Tabrez Noorani,"Mrunal Thakur, Freida Pinto, Manoj Bajpayee, Rajkummar Rao, Richa Chadda, Anupam Kher, Adil Hussain, Sai Tamhankar",150000000.0,33300000.0,0.222,-77.8,1.0,FLOP
+Mitron,2018,"Comedy, Drama, Romance",Nitin Kakar,"Jackky Bhagnani, Kritika Kamra, Pratik Gandhi, Neeraj Sood",150000000.0,52180000.0,0.34786666666666666,-65.21333333333334,1.0,FLOP
+Batti Gul Meter Chalu,2018,"Drama, Comedy, Social Issues",Shree Narayan Singh,"Shahid Kapoor, Shraddha Kapoor, Divyendu Sharma, Yami Gautam",490000000.0,523240000.0,1.0678367346938775,6.783673469387755,2.5,AVERAGE
+Manto,2018,"Biographical, Drama",Nandita Das,"Nawazuddin Siddiqui, Tahir Raj Bhasin, Rasika Dugal, Rajshri Deshpande",80000000.0,43100000.0,0.53875,-46.125,1.0,FLOP
+Sui Dhaaga,2018,"Drama, Comedy, Romance",Sharat Katariya,"Varun Dhawan, Anushka Sharma",480000000.0,1200650000.0,2.5013541666666668,150.13541666666669,3.8,HIT
+Pataakha,2018,"Comedy, Drama",Vishal Bhardwaj,"Sanya Malhotra, Sunil Grover, Radhika Madan",190000000.0,110620000.0,0.5822105263157895,-41.77894736842106,1.0,FLOP
+Loveyatri,2018,"Romance, Drama, Musical",Abhiraj Minawala,"Aayush Sharma, Warina Hussain",240000000.0,193900000.0,0.8079166666666666,-19.208333333333332,1.8,FLOP
+Andhadhun,2018,"Thriller, Black Comedy, Mystery",Sriram Raghavan,"Ayushman Khurana, Tabu, Radhika Apte",320000000.0,1143300000.0,3.5728125,257.28125,4.3,SUPER HIT
+Jalebi,2018,"Romance, Drama",Pushpdeep Bhardwaj,"Rhea Chakraborty, Digangana Suryavanshi, Varun Mitra",75000000.0,31920000.0,0.4256,-57.440000000000005,1.0,FLOP
+Helicopter Eela,2018,"Comedy, Drama",Pradeep Sarkar,"Kajol, Riddhi Sen, Neha Dhupia, Tota Roy Choudhury",240000000.0,84100000.0,0.35041666666666665,-64.95833333333333,1.0,FLOP
+FryDay,2018,"Comedy, Drama",Abhishek Dogra,"Govinda, Varun Sharma",150000000.0,20928000.0,0.13952,-86.048,1.0,FLOP
+Tumbbad,2018,"Fantasy, Horror, Thriller, Drama",Rahi Anil Barve,"Soham ShahHarish Khanna, Anita Date",150000000.0,154600000.0,1.0306666666666666,3.0666666666666664,2.5,AVERAGE
+Namaste England,2018,"Romantic comedy, Drama, Adventure",Vipul Shah,"Arjun Kapoor, Parineeti Chopra, Aditya Seal, Alankrita Sahai, Anil Mange, Satish Kaushik",540000000.0,141952500.0,0.262875,-73.7125,1.0,FLOP
+Badhaai Ho,2018,"Comedy, Drama",Amit Ravindernath Sharma,"Ayushman Khurrana, Neena Gupta, Gajraj Rao, Surekha Sikri, Sanya Malhotra",230000000.0,2200000000.0,9.565217391304348,856.5217391304348,5.0,BLOCKBUSTER
+Baazaar,2018,"Drama, Thriller, Crime",Gauravv K. Chawla,"Saif Ali Khan, Radhika Apte, Chitrangada Singh, Denzil Smith, Rohan Mehra, Sonia Balani",340000000.0,398720000.0,1.1727058823529413,17.270588235294117,2.5,AVERAGE
+5 Weddings,2018,"Romantic Comedy, Drama",Namrata Singh Gujral,"Rajkummar Rao, Nargis Fakhri, Bo Derek, Candy Clark, Anneliese van der Pol, Suvinder Vicky",200000000.0,4100000.0,0.0205,-97.95,1.0,FLOP
+Kaashi in Search of Ganga,2018,"Drama, Thriller, Mystery",Dhiraj Kumar,"Sharman Joshi, Aishwarya Devan, Govind Namdev, Manoj Joshi, Manoj Pahwa, Akhilendra Mishra",100000000.0,9300000.0,0.093,-90.7,1.0,FLOP
+Dassehra,2018,"Action, Thriller, Drama",Manish Vatsalya,"Neil Nitin Mukesh, Tina Desai, Govind Namdev",100000000.0,2500000.0,0.025,-97.5,1.0,FLOP
+Thugs of Hindostan,2018,"Action, Adventure, Drama, Musical",Vijay Krishna Acharya,"Amitabh Bachchan, Aamir Khan, Fatima Sana Shaikh, Katrina Kaif, Mohammed Zeeshan Ayyub",3100000000.0,2450875000.0,0.7906048387096775,-20.939516129032256,1.8,FLOP
+Mohalla Assi,2018,"Drama, Comedy, Social Commentary",Chandraprakash Dwivedi,"Sunny Deol, Sakshi Tanwar, Ravi Kishan, Saurabh Shukla, Mukesh Tiwari, Rajendra Gupta, Mithilesh Chaturvedi",100000000.0,32500000.0,0.325,-67.5,1.0,FLOP
+Pihu,2018,"Drama, Thriller",Vinod Kapri,"Myra Vishwakarma, Prerna Sharma",40000000.0,41058000.0,1.02645,2.645,2.5,AVERAGE
+Hotel Milan,2018,"Comedy, Drama",Vishal Mishra,"Kunaal Roy Kapur, Karishma Sharma, Zeishan Quadri, Jaideep Ahlawat, Rajesh Sharma, Zakir Hussain",100000000.0,125000.0,0.00125,-99.875,1.0,FLOP
+Bhaiaji Superhit,2018,"Action, Comedy, Drama",Neerraj Pathak,"Sunny Deol, Preity Zinta, Ameesha Patel, Arshad Warsi, Shreyas Talpade, Evelyn Sharma",260000000.0,56900000.0,0.21884615384615386,-78.11538461538461,1.0,FLOP
+2,2018,"Science Fiction, Action, Thriller",S Shankar,"Rajnikanth, Amy Jackson, Akshay Kumar, Adil Hussain, Sudhanshu Pandey",5750000000.0,2675200000.0,0.46525217391304347,-53.47478260869565,1.0,FLOP
+Kedarnath,2018,"Romance, Drama, Thriller",Abhishek Kapoor,"Sushant Singh Rajput, Sara Ali Khan",680000000.0,1027770000.0,1.5114264705882352,51.142647058823535,3.2,AVERAGE
+Zero,2018,"Drama, Romance, Comedy, Fantasy",Aanand L. Rai,"Shah Rukh Khan, Katrina Kaif, Anushka Sharma, Abhay Deol, Tigmanshu Dhulia",2700000000.0,1914390000.0,0.7090333333333333,-29.096666666666664,1.0,FLOP
+Simmba,2018,"Action, Comedy, Drama, Crime",Rohit Shetty,"Ranveer Singh, Sara Ali Khan, Sonu Sood",1390000000.0,3916825000.0,2.817859712230216,181.7859712230216,3.8,HIT
+Uri: The Surgical Strike,2019,"Action, Drama, War, Thriller",Aditya Dhar,Vicky KaushalMohit RainaParesh RawalYami Gautam,440000000.0,3383960000.0,7.690818181818182,669.0818181818182,5.0,BLOCKBUSTER
+The Accidental Prime Minister,2019,"Biography, Drama, Political",Vijay Ratnakar Gutte,Anupam KherAkshaye KhannaSuzanne BernertAahana KumraArjun Mathur,210000000.0,315700000.0,1.5033333333333334,50.33333333333333,3.2,AVERAGE
+Why Cheat India,2019,"Drama, Thriller, Comedy",Soumik Sen,Emraan HashmiShreya Dhanwanthary,230000000.0,105400000.0,0.4582608695652174,-54.17391304347826,1.0,FLOP
+Fraud Saiyaan,2019,"Comedy, Drama, Romance",Sourabh Shrivastava,Arshad WarsiSara LorenSaurabh Shukla,120000000.0,22810000.0,0.19008333333333333,-80.99166666666666,1.0,FLOP
+72 Hours: Martyr Who Never Died,2019,"Action, Drama, War",Avinash Dhyani,Avinash DhyaniMukesh TiwariVirendra SaxenaAlka Amin Shishir SharmaGireesh SahdevPrashil Rawat,30000000.0,3000000.0,0.1,-90.0,1.0,FLOP
+Bombairiya,2019,"Comedy, Drama, Thriller",Pia Sukanya,Radhika ApteSiddhanth KapoorAkshay OberoiShilpa ShuklaAdil HussainAmit SialRavi Kishan,30000000.0,1900000.0,0.06333333333333334,-93.66666666666667,1.0,FLOP
+Thackeray,2019,"Biographical, Drama, Political",Abhijit Panse,Nawazuddin SiddiquiAmrita Rao,310000000.0,252515000.0,0.8145645161290322,-18.543548387096777,1.8,FLOP
+Manikarnika: The Queen of Jhansi,2019,"Action, Historical, Drama, Biographical",Radha Krishna JagarlamudiKangana Ranaut,Kangana RanautJisshu SenguptaSuresh OberoiAnkita LokhandeDanny DenzongappaAtul KulkarniMohammed Zeeshan Ayyub,990000000.0,1320000000.0,1.3333333333333333,33.33333333333333,2.5,AVERAGE
+Ek Ladki Ko Dekha Toh Aisa Laga,2019,"Romance, Drama, Comedy",Shelly Chopra Dhar,Anil KapoorSonam KapoorJuhi ChawlaRajkummar Rao,350000000.0,362235000.0,1.034957142857143,3.495714285714286,2.5,AVERAGE
+The Fakir of Venice,2019,"Drama, Comedy",Anand Surapur,Farhan AkhtarAnnu Kapoor,13000000.0,1975000.0,0.1519230769230769,-84.8076923076923,1.0,FLOP
+Dosti Ke Side Effects,2019,"Romance, Drama, Comedy",Hadi Ali Abrar,Sapna ChoudhryVikrant AnandNeel MotwaniZuber K. KhanAnju Jadhav,20000000.0,625000.0,0.03125,-96.875,1.0,FLOP
+Amavas,2019,"Horror, Thriller",Bhushan Patel,Sachiin JoshiVivan BhatenaNargis Fakhri,120000000.0,39175000.0,0.32645833333333335,-67.35416666666667,1.0,FLOP
+Gully Boy,2019,"Drama, Musical, Romance, Biography",Zoya Akhtar,Ranveer SinghAlia Bhatt,840000000.0,2302812500.0,2.7414434523809526,174.14434523809524,3.8,HIT
+Hum Chaar,2019,"Drama, Romance, Comedy",Abhishek Dixit,Prit KamaniSimran SharmaAnshuman MalhotraTushar Pandey,80000000.0,2700000.0,0.03375,-96.625,1.0,FLOP
+Total Dhamaal,2019,"Comedy, Adventure, Family",Indra Kumar,Ajay DevgnMadhuri DixitArshad WarsiJaved JaffreyAnil KapoorRiteish DeshmukhSanjay MishraEsha Gupta,1130000000.0,2272062500.0,2.010674778761062,101.0674778761062,3.8,HIT
+Goopi Gawaiya Bagha Bajaiya,2019,"Animation, Adventure, Family, Musical",Shilpa Ranade,Manish BhawanRajeev RajShailendra Pande,30000000.0,950000.0,0.03166666666666667,-96.83333333333334,1.0,FLOP
+Luka Chuppi,2019,"Romantic Comedy, Drama",Laxman Utekar,Kartik AaryanKriti SanonAparshakti KhuranaPankaj TripathiVinay Pathak,340000000.0,1220030000.0,3.5883235294117646,258.83235294117645,4.3,SUPER HIT
+Sonchiriya,2019,"Action, Drama, Thriller, Western",Abhishek Chaubey,Sushant Singh RajputBhumi PednekarManoj BajpayeeRanvir ShoreyAshutosh Rana,280000000.0,80000000.0,0.2857142857142857,-71.42857142857143,1.0,FLOP
+Badla,2019,"Thriller, Mystery, Drama",Sujoy Ghosh,Amitabh BachchanTaapsee Pannu,3500000.0,4348000.0,1.2422857142857142,24.22857142857143,2.5,AVERAGE
+Hamid,2019,"Drama, Family, Social Issues",Aijaz Khan,Talha Arshad ReshiRasika DugalVikas KumarSumit Kaul,20000000.0,1650000.0,0.0825,-91.75,1.0,FLOP
+Mere Pyare Prime Minister,2019,"Drama, Comedy, Social Issues",Rakeysh Omprakash Mehra,Anjali PatilMakarand DeshpandeRasika AagasheSonia AlbizuriSyna AnandAdarsh BhartiOm Kanojiya,70000000.0,4700000.0,0.06714285714285714,-93.28571428571428,1.0,FLOP
+Kesari,2019,"Action, Drama, Historical, War",Anurag Singh,Akshay KumarParineeti ChopraMir SarwarAshwath Bhatt,1260000000.0,2013000000.0,1.5976190476190477,59.76190476190476,3.2,AVERAGE
+Mard Ko Dard Nahi Hota,2019,"Action, Comedy, Drama",Vasan Bala,Abhimanyu DassaniRadhika MadanGulshan DevaiahMahesh ManjrekarJimit TrivediShweta Basu Prasad,170000000.0,30300000.0,0.17823529411764705,-82.17647058823529,1.0,FLOP
+Ram Ki Janmabhoomi,2019,"Drama, Historical, Religious",Sanoj Mishra,Govind NamdeoManoj JoshiNajneen PatniRajveer Singh,3500000.0,165000.0,0.047142857142857146,-95.28571428571428,1.0,FLOP
+Notebook,2019,"Romance, Drama",Nitin Kakkar,Zaheer IqbalPranutan Bahl,190000000.0,56700000.0,0.2984210526315789,-70.15789473684211,1.0,FLOP
+Junglee,2019,"Action, Adventure, Drama",Chuck Russell,Vidyut JammwalPooja SawantAsha BhatAtul Kulkarni,2500000.0,2000000.0,0.8,-20.0,1.8,FLOP
+Romeo Akbar Walter,2019,"Action, Thriller, Drama",Robbie Garewal,John AbrahamMouni RoyJackie ShroffSikander KherSuchitra Krishnamoorthi,480000000.0,523400000.0,1.0904166666666666,9.041666666666668,2.5,AVERAGE
+The Tashkent Files,2019,"Drama, Thriller, Historical",Vivek Agnihotri,Mithun ChakrabortyNaseeruddin ShahShweta Basu PrasadPankaj TripathiVinay PathakMandira BediPallavi JoshiAnkur RatheePrakash Belawadi,75000000.0,208400000.0,2.7786666666666666,177.86666666666667,3.8,HIT
+Kalank,2019,"Drama, Romance, Musical, Historical",Abhishek Varman,Madhuri DixitSonakshi SinhaAlia BhattVarun DhawanAditya Roy KapurSanjay Dutt,1370000000.0,1455100000.0,1.062116788321168,6.211678832116788,2.5,AVERAGE
+Blank,2019,"Action, Thriller",Behzad Khambata,Sunny DeolKaran KapadiaIshita Dutta,160000000.0,64117500.0,0.400734375,-59.9265625,1.0,FLOP
+Setters,2019,"Drama, Comedy, Thriller",Ashwini Chaudhary,Aftab ShivdasaniShreyas TalpadeSonnalli SeygallIshita DuttaPavan MalhotraVijay RaazJameel KhanManu Rishi,110000000.0,8400000.0,0.07636363636363637,-92.36363636363636,1.0,FLOP
+Chhota Bheem Kung Fu Dhamaka[a],2019,"Animation, Adventure, Comedy, Family",Rajiv Chilaka,Parigna Pandya ShahJulie TejwaniPinky RajputRajesh Kava,200000000.0,33000000.0,0.165,-83.5,1.0,FLOP
+Student of the Year 2,2019,"Romantic comedy, Drama, Musical",Punit Malhotra,Tiger ShroffTara SutariaAnanya Panday,650000000.0,935200000.0,1.4387692307692308,43.87692307692308,2.5,AVERAGE
+De De Pyaar De,2019,"Romantic Comedy, Drama",Akiv Ali,Ajay DevgnTabuRakul Preet SinghJimmy Sheirgill,780000000.0,1310200000.0,1.6797435897435897,67.97435897435898,3.2,AVERAGE
+India's Most Wanted,2019,"Action, Thriller, Drama",Rajkumar Gupta,Arjun KapoorSudev NairRajesh SharmaPrashanth AlexanderShantilal Mukherjee,400000000.0,125900000.0,0.31475,-68.525,1.0,FLOP
+PM Narendra Modi,2019,"Biography, Drama, Political",Omung Kumar,Vivek OberoiBoman IraniManoj JoshiBarkha SenguptaAanjjan SrivastavZarina WahabSuresh Oberoi,250000000.0,266400000.0,1.0656,6.5600000000000005,2.5,AVERAGE
+Bharat,2019,"Drama, Action, Adventure, Romance",Ali Abbas Zafar,Salman KhanTabuKatrina KaifSunil GroverDisha PataniAasif Sheikh,27500000.0,15200000.0,0.5527272727272727,-44.72727272727273,1.0,FLOP
+Khamoshi,2019,"Drama, Thriller, Musical",Chakri Toleti,Prabhu DevaTamannaahBhumika Chawla,120000000.0,134180000.0,1.1181666666666668,11.816666666666666,2.5,AVERAGE
+Kabir Singh,2019,"Romance, Drama",Sandeep Vanga,Shahid KapoorKiara AdvaniSoham MajumdarArjan BajwaKamini KaushalNikita DuttaAmit SharmaKunal ThakurSwati SethAnusha SampathSuresh Oberoi,680000000.0,3734987500.0,5.492628676470588,449.2628676470588,5.0,BLOCKBUSTER
+Article 15,2019,"Drama, Thriller, Crime",Anubhav Sinha,Ayushmann KhurranaIsha TalwarNassarManoj PahwaSayani GuptaKumud MishraMohammed Zeeshan Ayyub,300000000.0,917980000.0,3.0599333333333334,205.99333333333334,4.3,SUPER HIT
+Malaal,2019,"Romance, Drama",Mangesh Hadawale,Meezaan JafferySharmin Segal,160000000.0,37000000.0,0.23125,-76.875,1.0,FLOP
+Hume Tumse Pyaar Kitna,2019,"Romance, Drama",Lalit Mohan,Karanvir BohraPriya BanerjeeSamir KochharMahesh Balraj,30000000.0,1975000.0,0.06583333333333333,-93.41666666666667,1.0,FLOP
+Super 30,2019,"Biographical, Drama, Inspirational",Vikas Bahl,Hrithik RoshanMrunal ThakurAmit SadhPankaj Tripathi,1200000000.0,2053455000.0,1.7112125,71.12125,3.2,AVERAGE
+Family of Thakurganj,2019,"Drama, Comedy, Action",Manoj K. Jha,Jimmy SheirgillMahie GillSaurabh ShuklaSudhir PandeySupriya PilgaonkarPavan MalhotraMukesh TiwariNandish SinghYashpal SharmaPranati Rai PrakashRaj ZutshiSalil AcharyaManoj Pahwa,150000000.0,4900000.0,0.03266666666666666,-96.73333333333333,1.0,FLOP
+Judgementall Hai Kya,2019,"Thriller, Comedy, Drama",Prakash Kovelamudi,Kangana RanautRajkummar RaoJimmy SheirgillAmyra DasturAmrita Puri,320000000.0,400000000.0,1.25,25.0,2.5,AVERAGE
+Arjun Patiala,2019,"Comedy, Action, Romance",Rohit Jugraj,Diljit DosanjhKriti SanonVarun SharmaRonit Roy,240000000.0,72800000.0,0.30333333333333334,-69.66666666666667,1.0,FLOP
+Khandaani Shafakhana,2019,"Comedy, Drama",Shilpi Dasgupta,Sonakshi SinhaVarun SharmaAnnu KapoorBadshah,260000000.0,51600000.0,0.19846153846153847,-80.15384615384616,1.0,FLOP
+Jabariya Jodi,2019,"Romantic Comedy, Action, Drama",Prashant Singh,Sidharth MalhotraParineeti Chopra,390000000.0,229720000.0,0.589025641025641,-41.09743589743589,1.0,FLOP
+Batla House,2019,"Action, Thriller, Drama",Nikhil Advani,John AbrahamMrunal Thakur,560000000.0,1128787500.0,2.0156919642857143,101.56919642857143,3.8,HIT
+Mission Mangal,2019,"Drama, Comedy, Biographical, Inspirational",Jagan Shakti,Akshay KumarVidya BalanSharman JoshiSonakshi SinhaTaapsee PannuKirti KulhariNithya Menen,950000000.0,2796850000.0,2.9440526315789475,194.40526315789475,3.8,HIT
+Saaho,2019,"Action, Thriller, Science Fiction, Drama",Sujeeth,PrabhasNeil Nitin MukeshShraddha KapoorJackie Shroff,3250000000.0,1926200000.0,0.5926769230769231,-40.73230769230769,1.0,FLOP
+Chhichhore,2019,"Comedy, Drama, Sports",Nitesh Tiwari,Sushant Singh RajputShraddha KapoorVarun SharmaPrateik BabbarTahir Raj BhasinNaveen PolishettyTushar PandeySaharsh Shukla,530000000.0,2036337500.0,3.8421462264150943,284.21462264150944,4.3,SUPER HIT
+Dream Girl,2019,"Comedy, Romance",Raaj Shaandilyaa,Ayushmann KhurranaNushrat Bharucha,360000000.0,1954370000.0,5.428805555555556,442.8805555555556,5.0,BLOCKBUSTER
+Section 375,2019,"Drama, Thriller, Crime",Ajay Bahl,Akshaye KhannaRicha ChadhaRahul BhatMeera Chopra,170000000.0,150225000.0,0.8836764705882353,-11.63235294117647,1.8,FLOP
+The Zoya Factor,2019,"Romantic Comedy, Drama, Sports",Abhishek Sharma,Sonam KapoorDulquer SalmaanSanjay Kapoor,330000000.0,61880000.0,0.18751515151515152,-81.24848484848485,1.0,FLOP
+Pal Pal Dil Ke Paas,2019,"Romance, Drama",Sunny Deol,Karan DeolSahher Bambba,450000000.0,91550000.0,0.20344444444444446,-79.65555555555555,1.0,FLOP
+Prassthanam,2019,"Drama, Action, Thriller",Deva Katta,Sanjay DuttManisha KoiralaJackie ShroffChunky PandeyAli FazalAmyra DasturSatyajeet Dubey,390000000.0,75740000.0,0.1942051282051282,-80.57948717948717,1.0,FLOP
+War,2019,"Action, Thriller, Adventure",Siddharth Anand,Hrithik RoshanTiger ShroffVaani Kapoor,2050000000.0,4424180000.0,2.158136585365854,115.81365853658536,3.8,HIT
+The Sky Is Pink,2019,"Drama, Biographical, Romance",Shonali Bose,Priyanka ChopraFarhan AkhtarZaira WasimRohit Suresh Saraf,420000000.0,338560000.0,0.8060952380952381,-19.390476190476193,1.8,FLOP
+Ghost,2019,"Horror, Thriller, Supernatural",Vikram Bhatt,Sanaya IraniShivam Bhaargava,90000000.0,94400000.0,1.048888888888889,4.888888888888889,2.5,AVERAGE
+Laal Kaptaan,2019,"Action, Drama, Adventure, Historical",Navdeep Singh,Saif Ali KhanManav VijZoya HussainDeepak DobriyalSimone Singh,410000000.0,36198750.0,0.08828963414634146,-91.17103658536585,1.0,FLOP
+Officer Arjun Singh IPS Batch 2000,2019,"Action, Drama, Thriller",Arshad Siddiqui,Priyanshu ChatterjeeRaai Laxmi,50000000.0,137500.0,0.00275,-99.725,1.0,FLOP
+Housefull 4,2019,"Comedy, Fantasy, Adventure",Farhad Samji,Akshay KumarRitesh DeshmukhBobby DeolKriti SanonPooja HegdeKriti KharbandaChunky PandeyRanjeetRana Daggubati,1620000000.0,2948000000.0,1.819753086419753,81.9753086419753,3.2,AVERAGE
+Made in China,2019,"Comedy, Drama, Satire",Mikhil Musale,Rajkummar RaoMouni RoyBoman IraniGajraj RaoSumeet VyasAmyra DasturParesh Rawal,300000000.0,144480000.0,0.4816,-51.839999999999996,1.0,FLOP
+Saand Ki Aankh,2019,"Biographical, Drama, Sports",Tushar Hiranandani,Bhumi PednekarTaapsee PannuPrakash JhaVineet Kumar Singh,250000000.0,304900000.0,1.2196,21.959999999999997,2.5,AVERAGE
+Ujda Chaman,2019,"Comedy, Drama, Romance",Abhishek Pathak,Sunny SinghMaanvi GagrooKarishma SharmaAishwarya Sakhuja,180000000.0,119600000.0,0.6644444444444444,-33.55555555555556,1.0,FLOP
+Bala,2019,"Comedy, Drama, Social Issues",Amar Kaushik,Ayushmann KhurranaBhumi PednekarYami GautamSaurabh ShuklaJaved JaffreySeema Pahwa,320000000.0,1310000000.0,4.09375,309.375,4.8,BLOCKBUSTER
+Bypass Road,2019,"Thriller, Mystery, Drama",Naman Nitin Mukesh,Neil Nitin MukeshAdah SharmaShama SikanderGul PanagRajit KapurSudhanshu Pandey,250000000.0,11800000.0,0.0472,-95.28,1.0,FLOP
+Moothon,2019,"Drama, Thriller, Crime",Geetu Mohandas,Nivin PaulySanjana DipuShashank AroraSobhita DhulipalaDileesh PothanJim SarbhRoshan Mathew,70000000.0,12000000.0,0.17142857142857143,-82.85714285714286,1.0,FLOP
+Satellite Shankar,2019,"Action, Drama, Adventure",Irfan Kamal,Sooraj PancholiMegha Akash,200000000.0,5000000.0,0.025,-97.5,1.0,FLOP
+Jhalki,2019,"Drama, Social Issues",Brahmanand S. Siingh,Boman IraniTannishtha ChatterjeeDivya DuttaSanjay SuriYatin KaryekarAkhilendra MishraGovind NamdevJoy Sengupta,100000000.0,875000.0,0.00875,-99.125,1.0,FLOP
+Keep Safe Distance,2019,"Drama, Thriller",Raama Mehra,Kiran KumarShahbaz Khan,25000000.0,175000.0,0.007,-99.3,1.0,FLOP
+Marjaavaan,2019,"Action, Drama, Romance, Thriller",Milap Milan Zaveri,Sidharth MalhotraRiteish DeshmukhTara SutariaRakul Preet Singh,380000000.0,543800000.0,1.4310526315789474,43.10526315789473,2.5,AVERAGE
+Motichoor Chaknachoor,2019,"Comedy, Drama, Romance",Debamitra Biswal,Nawazuddin SiddiquiAthiya Shetty,190000000.0,27800000.0,0.1463157894736842,-85.36842105263159,1.0,FLOP
+Pagalpanti,2019,"Comedy, Action, Adventure",Anees Bazmee,Anil KapoorJohn AbrahamIleana D'CruzArshad WarsiPulkit SamratKriti KharbandaUrvashi RautelaSaurabh Shukla,720000000.0,495422500.0,0.6880868055555556,-31.191319444444442,1.0,FLOP
+Commando 3,2019,"Action, Thriller, Adventure",Aditya Datt,Vidyut JammwalAdah SharmaAngira DharGulshan Devaiah,290000000.0,425050000.0,1.465689655172414,46.56896551724138,2.5,AVERAGE
+Yeh Saali Aashiqui,2019,"Romance, Thriller, Drama",Cherag Ruparel,Vardhan PuriShivaleeka Oberoi,25000000.0,7000000.0,0.28,-72.0,1.0,FLOP
+Panipat,2019,"Historical, Drama, War",Ashutosh Gowariker,Sanjay DuttArjun KapoorKriti SanonMohnish Bahl,920000000.0,402400000.0,0.4373913043478261,-56.260869565217384,1.0,FLOP
+Pati Patni Aur Woh,2019,"Comedy, Romance, Drama",Mudassar Aziz,Kartik AaryanBhumi PednekarAnanya Panday,430000000.0,1098862500.0,2.5554941860465115,155.54941860465118,3.8,HIT
+Mardaani 2,2019,"Action, Thriller, Drama",Gopi Puthran,Rani MukerjiVikram Singh ChauhanShruti BapnaRajesh SharmaSudhanshu Pandey,270000000.0,637356250.0,2.3605787037037036,136.05787037037035,3.8,HIT
+The Body,2019,"Thriller, Mystery, Drama",Jeethu Joseph,Emraan HashmiRishi KapoorVedhikaSobhita Dhulipala,190000000.0,39800000.0,0.2094736842105263,-79.05263157894737,1.0,FLOP
+Dabangg 3,2019,"Action, Comedy, Drama, Thriller",Prabhu Deva,Salman KhanSonakshi SinhaSudeepSaiee ManjrekarArbaaz Khan,1780000000.0,2178462500.0,1.2238553370786518,22.385533707865168,2.5,AVERAGE
+Line of Descent,2019,"Action, Drama, Thriller",Rohit Karn Batra,Brendan FraserAbhay DeolRonit RoyNeeraj KabiPrem ChopraAli Haji,360000000.0,254000.0,0.0007055555555555555,-99.92944444444444,1.0,FLOP
+Good Newwz,2019,"Comedy, Drama, Romance",Raj Mehta,Akshay KumarKareena KapoorDiljit DosanjhKiara Advani,1170000000.0,3042737500.0,2.600630341880342,160.06303418803418,3.8,HIT
+Bhangra Paa Le,2020,"Comedy, Drama, Musical, Dance",Sneha Taurani,Sunny KaushalRukshar DhillonShriya Pilgaonkar,150000000.0,7700000.0,0.051333333333333335,-94.86666666666666,1.0,FLOP
+Sab Kushal Mangal,2020,"Comedy, Romance, Drama",Karan Vishwanath Kashyap,Akshaye KhannaRiva KishanPriyank Sharma,150000000.0,7000000.0,0.04666666666666667,-95.33333333333334,1.0,FLOP
+Chhapaak,2020,"Drama, Biographical, Social Issues",Meghna Gulzar,Deepika PadukoneVikrant Massey,500000000.0,497850000.0,0.9957,-0.43,1.8,FLOP
+Tanhaji,2020,"Action, Historical, Drama, War",Om Raut,Ajay DevgnSaif Ali KhanKajolSharad Kelkar,1720000000.0,3587775000.0,2.0859156976744186,108.59156976744187,3.8,HIT
+Jai Mummy Di,2020,"Comedy, Romance",Navjot Gulati,Sunny SinghSonnalli SeygallPoonam DhillonSupriya Pathak,140000000.0,31825000.0,0.22732142857142856,-77.26785714285714,1.0,FLOP
+Panga,2020,"Drama, Sports, Comedy",Ashwiny Iyer Tiwari,Kangana RanautJassi GillRicha ChadhaNeena Gupta,10000000.0,7000.0,0.0007,-99.92999999999999,1.0,FLOP
+Happy Hardy and Heer,2020,"Romantic, Comedy, Musical",Raka,Himesh ReshammiyaSonia Mann,70000000.0,1450000.0,0.020714285714285713,-97.92857142857143,1.0,FLOP
+Jawaani Jaaneman,2020,"Comedy, Drama, Romance",Nitin Kakkar,Saif Ali KhanTabuAlaya Furniturewala,340000000.0,390545000.0,1.1486617647058823,14.866176470588236,2.5,AVERAGE
+Hacked,2020,"Thriller, Horror, Drama",Vikram Bhatt,Hina KhanRohan ShahMohit MalhotraSid Makkar,45000000.0,18200000.0,0.40444444444444444,-59.55555555555555,1.0,FLOP
+Malang,2020,"Action, Thriller, Romance",Mohit Suri,Aditya Roy KapurDisha PataniAnil KapoorElli AvrRamKunal Khemu,640000000.0,834262500.0,1.30353515625,30.353515625,2.5,AVERAGE
+Shikara,2020,"Drama, Romance, Historical",Vidhu Vinod Chopra,Aadil KhanSadia Khateeb,140000000.0,84900000.0,0.6064285714285714,-39.357142857142854,1.0,FLOP
+Love Aaj Kal,2020,"Romance, Drama, Comedy",Imtiaz Ali,Kartik AaryanSara Ali KhanRandeep Hooda,560000000.0,1195175000.0,2.1342410714285713,113.42410714285714,3.8,HIT
+Shubh Mangal Zyada Saavdhan,2020,"Comedy, Drama, Romance",Hitesh Kewalya,Ayushmann KhurranaJitendra KumarGajraj RaoNeena GuptaManurishi ChaddhaSunita RajwarMaanvi GagrooPankhuri AwasthyNeeraj Singh,480000000.0,833330000.0,1.7361041666666666,73.61041666666667,3.2,AVERAGE
+Thappad,2020,"Drama, Social Issues",Anubhav Sinha,Taapsee PannuPavail GulatiMaya SaraoNaila Grewal,240000000.0,437735000.0,1.8238958333333333,82.38958333333333,3.2,AVERAGE
+Baaghi 3,2020,"Action, Thriller, Drama",Ahmed Khan,Tiger ShroffRiteish DeshmukhShraddha KapoorAnkita Lokhande,850000000.0,1359175000.0,1.599029411764706,59.90294117647059,3.2,AVERAGE
+Angrezi Medium,2020,"Comedy, Drama",Homi Adajania,Irrfan KhanKareena KapoorRadhika MadanDeepak DobriyalPankaj Tripathi,360000000.0,107200000.0,0.29777777777777775,-70.22222222222221,1.0,FLOP
+Dil Bechara,2020,"Romance, Drama",Mukesh Chhabra,Sushant Singh RajputSanjana SanghiSaif Ali KhanSahil VaidSaswata Chatterjee,20000000.0,6800000.0,0.34,-66.0,1.0,FLOP
+Yaara,2020,"Action, Drama, Crime",Tigmanshu Dhulia,Vidyut JammwalShruti HaasanAmit SadhVijay VarmaKenny Basumatary,3500000.0,425000.0,0.12142857142857143,-87.85714285714286,1.0,FLOP
+Khuda Haafiz,2020,"Action, Thriller, Drama",Faruk Kabir,Vidyut JammwalShivaleeka OberoiAnnu KapoorShiv PandittAahana Kumra,300000000.0,151000000.0,0.5033333333333333,-49.666666666666664,1.0,FLOP
+Sir,2020,"Drama, Romance",Rohena Gera,Tillotama ShomeVivek Gomber,30000000.0,5550000.0,0.185,-81.5,1.0,FLOP
+Suraj Pe Mangal Bhari,2020,"Comedy, Drama, Romance",Abhishek Sharma,Manoj BajpayeeDiljit DosanjhFatima Sana Shaikh,210000000.0,83480000.0,0.3975238095238095,-60.24761904761905,1.0,FLOP
+Coolie No. 1,2020,"Comedy, Romance, Family",David Dhawan,Varun DhawanSara Ali KhanRajat Rawail,35000000.0,212298750.0,6.065678571428571,506.5678571428571,5.0,BLOCKBUSTER
+Kaagaz,2021,"Drama, Biography",Satish Kaushik,Pankaj TripathiMonal GajjarAmar UpadhyayTina AhujaLankesh Bhardwaj,40000000.0,4800000.0,0.12,-88.0,1.0,FLOP
+The Power,2021,"Action, Thriller, Drama",Mahesh Manjrekar,Vidyut JammwalShruti HaasanMahesh ManjrekarZakir HussainSachin KhedekarJisshu SenguptaPrateik BabbarYuvika Chaudhary,2000000.0,750000.0,0.375,-62.5,1.0,FLOP
+Madam Chief Minister,2021,"Drama, Political, Social",Subhash Kapoor,Richa ChaddaManav KaulAkshay OberoiSaurabh Shukla,140000000.0,5800000.0,0.041428571428571426,-95.85714285714285,1.0,FLOP
+Roohi,2021,"Horror, Comedy, Fantasy",Hardik Mehta,Rajkummar RaoJanhvi KapoorVarun Sharma,26000000.0,314512500.0,12.096634615384616,1109.6634615384617,5.0,BLOCKBUSTER
+Time to Dance,2021,"Dance, Musical, Drama, Romance",Stanley D'Costa,Sooraj PancholiIsabelle KaifWaluscha De Sousa,186700000.0,120000.0,0.0006427423674343867,-99.93572576325657,1.0,FLOP
+Mumbai Saga,2021,"Action, Crime, Drama",Sanjay Gupta,John AbrahamEmraan HashmiSuniel ShettyKajal AggarwalPrateik BabbarRohit RoyAnjana SukhaniSamir SoniAmole GupteGulshan GroverMahesh Manjrekar,640000000.0,240175000.0,0.3752734375,-62.47265625,1.0,FLOP
+Sandeep Aur Pinky Faraar,2021,"Comedy, Drama, Thriller",Dibakar Banerjee,Arjun KapoorParineeti Chopra,200000000.0,5812500.0,0.0290625,-97.09375,1.0,FLOP
+Raag,2021,"Drama, Musical, Comedy",Arvind Tripathi,Rajpal YadavHeena PanchalMilind GunajiMohan JoshiYashpal SharmaRakesh BediSudha ChandranMushtaq KhanBharti Soni,9500000.0,11800000.0,1.2421052631578948,24.210526315789473,2.5,AVERAGE
+Saina,2021,"Biography, Sports, Drama",Amole Gupte,Parineeti ChopraManav KaulParesh Rawal,260000000.0,15145000.0,0.05825,-94.175,1.0,FLOP
+Koi Jaane Na,2021,"Thriller, Drama, Mystery",Amin Hajee,Kunal KapoorAmyra Dastur,100000000.0,2200000.0,0.022,-97.8,1.0,FLOP
+99 Songs[b],2021,"Musical, Romance, Drama",Vishwesh Krishnamoorthy,Ehan BhatEdilsy VargasTenzin DalhaAditya SealLisa RayManisha Koirala,70000000.0,860000.0,0.012285714285714285,-98.77142857142857,1.0,FLOP
+Raat Baaki Hai,2021,"Thriller, Mystery, Drama",Avinash Das,Paoli DamAnup SoniRahul DevDipannita Sharma,5000000.0,140000.0,0.028,-97.2,1.0,FLOP
+Radhe,2021,"Action, Thriller, Drama",Prabhu Deva,Salman KhanDisha PataniJackie ShroffRandeep HoodaMegha Akash,2900000000.0,209300000.0,0.07217241379310345,-92.78275862068965,1.0,FLOP
+Hungama 2,2021,"Comedy, Family",Priyadarshan,Paresh RawalShilpa ShettyMeezaan JafriPranitha SubhashRajpal YadavTiku TalsaniaAshutosh RanaManoj JoshiJohny Lever,200000000.0,4400000.0,0.022,-97.8,1.0,FLOP
+Dial 100,2021,"Thriller, Drama",Rensil D'Silva,Manoj BajpayeeNeena GuptaSakshi Tanwar,2500000.0,1550000.0,0.62,-38.0,1.0,FLOP
+Bell Bottom,2021,"Action, Thriller, Drama",Ranjit M Tewari,Akshay KumarVaani KapoorHuma QureshiLara Dutta,1680000000.0,532880000.0,0.3171904761904762,-68.28095238095237,1.0,FLOP
+Chehre,2021,"Thriller, Mystery, Drama",Rumi Jafry,Amitabh BachchanEmraan HashmiKrystle D'SouzaRhea ChakrabortySiddhanth KapoorAnnu KapoorDhritiman ChatterjeeRaghubir Yadav,300000000.0,82660000.0,0.27553333333333335,-72.44666666666667,1.0,FLOP
+Faactory,2021,"Drama, Thriller, Mystery",Faisal Khan,Faisal KhanRoaleey RyanRajkumar KanojiaRibbhu MehraSharad SinghAsha Singh,10000000.0,350000.0,0.035,-96.5,1.0,FLOP
+Thalaivii[c],2021,"Biographical, Drama, Musical",A. L. Vijay,Kangana RanautArvind Swami,1000000000.0,56600000.0,0.0566,-94.34,1.0,FLOP
+Haathi Mere Saathi[d],2021,"Adventure, Drama, Family",Prabhu Solomon,Rana DaggubatiPulkit SamratShriya Pilgaonkar,600000000.0,84000000.0,0.14,-86.0,1.0,FLOP
+Sanak,2021,"Action, Thriller",Kanishk Varma,Vidyut JammwalRukmini MaitraNeha DhupiaChandan Roy SanyalChandan RoyAmole Gupte,3500000.0,325000.0,0.09285714285714286,-90.71428571428571,1.0,FLOP
+Bhavai,2021,"Drama, Romance, Thriller",Hardik Gajjar,Pratik GandhiAindrita Ray,9000000.0,5700000.0,0.6333333333333333,-36.666666666666664,1.0,FLOP
+Sooryavanshi,2021,"Action, Drama, Thriller, Comedy",Rohit Shetty,Akshay KumarKatrina KaifAjay DevgnRanveer SinghJaaved JaaferiJackie ShroffGulshan Grover,2500000000.0,2988387500.0,1.195355,19.5355,2.5,AVERAGE
+Bunty Aur Babli 2,2021,"Comedy, Crime, Drama",Varun V. Sharma,Saif Ali KhanRani MukerjiSiddhant ChaturvediSharvari Wagh,450000000.0,216000000.0,0.48,-52.0,1.0,FLOP
+Dhamaka,2021,"Thriller, Drama",Ram Madhvani,Kartik Aaryan Mrunal ThakurAmruta SubhashVikas KumarVishwajeet Pradhan,400000000.0,45000000.0,0.1125,-88.75,1.0,FLOP
+Cash,2021,"Comedy, Drama, Thriller",Rishab Seth,Amol ParasharSmiriti KalraSwanand KirkireGulshan GroverKavin Dave,320000000.0,293005000.0,0.915640625,-8.4359375,1.8,FLOP
+Satyameva Jayate 2,2021,"Action, Drama, Thriller",Milap Zaveri,John AbrahamDivya Khosla Kumar,890000000.0,174050000.0,0.195561797752809,-80.4438202247191,1.0,FLOP
+Antim: The Final Truth,2021,"Action, Drama, Crime",Mahesh Manjrekar,Salman KhanAayush SharmaMahima Makwana,390600000.0,591100000.0,1.5133128520225294,51.33128520225294,3.2,AVERAGE
+Tadap,2021,"Romance, Action, Drama",Milan Luthria,Ahan ShettyTara Sutaria,2000000.0,1650000.0,0.825,-17.5,1.8,FLOP
+Chandigarh Kare Aashiqui,2021,"Romantic Comedy, Drama",Abhishek Kapoor,Ayushmann KhurranaVaani Kapoor,400000000.0,41230000.0,0.103075,-89.6925,1.0,FLOP
+Velle,2021,"Comedy, Drama, Adventure",Deven Munjal,Karan DeolAbhay DeolMouni RoyAnya Singh,110000000.0,5900000.0,0.053636363636363635,-94.63636363636364,1.0,FLOP
+83,2021,"Drama, Sports, Biography",Kabir Khan,Ranveer SinghDeepika PadukoneTahir Raj BhasinJiivaSaqib SaleemAmmy VirkHarrdy Sandhu,2600000000.0,1869650000.0,0.7190961538461539,-28.090384615384618,1.0,FLOP
+Atrangi Re,2021,"Romance, Drama, Musical, Fantasy",Aanand L. Rai,DhanushSara Ali KhanAkshay Kumar,450000000.0,20000000.0,0.044444444444444446,-95.55555555555556,1.0,FLOP
+Badhaai Do,2022,"Comedy, Drama, Romance",Harshavardhan Kulkarni,Rajkummar RaoBhumi Pednekar,350000000.0,226700000.0,0.6477142857142857,-35.22857142857143,1.0,FLOP
+Gangubai Kathiawadi,2022,"Biographical, Drama, Crime",Sanjay Leela Bhansali,Alia BhattAjay DevgnShantanu MaheshwariVijay RaazSeema PahwaVarun Kapoor,1810000000.0,2066580000.0,1.141756906077348,14.175690607734806,2.5,AVERAGE
+Jhund,2022,"Drama, Sports, Biography",Nagraj Manjule,Amitabh BachchanAkash ThosarRinku Rajguru,380000000.0,171300000.0,0.4507894736842105,-54.921052631578945,1.0,FLOP
+The Kashmir Files,2022,"Drama, Thriller, Historical",Vivek Agnihotri,Mithun ChakrabortyAnupam KherDarshan KumarPallavi JoshiChinmay Mandlekar,250000000.0,2376140000.0,9.50456,850.456,5.0,BLOCKBUSTER
+Bachchhan Paandey,2022,"Action, Comedy, Drama",Farhad Samji,Akshay KumarKriti SanonJacqueline FernandezArshad Warsi,1820000000.0,730600000.0,0.4014285714285714,-59.857142857142854,1.0,FLOP
+Jalsa,2022,"Drama, Thriller",Suresh Triveni,Vidya BalanShefali Shah,2500000.0,250000.0,0.1,-90.0,1.0,FLOP
+Dasvi,2022,"Comedy, Drama",Tushar Jalota,Abhishek BachchanYami GautamNimrat Kaur,40000000.0,19700000.0,0.4925,-50.74999999999999,1.0,FLOP
+Jersey,2022,"Drama, Sports",Gowtam Tinnanuri,Shahid KapoorMrunal ThakurPankaj Kapur,950000000.0,300345000.0,0.31615263157894735,-68.38473684210527,1.0,FLOP
+Runway 34,2022,"Thriller, Drama, Aviation",Ajay Devgn,Amitabh BachchanAjay DevgnRakul Preet SinghBoman Irani,1050000000.0,547100000.0,0.5210476190476191,-47.8952380952381,1.0,FLOP
+Heropanti 2,2022,"Action, Romance, Drama",Ahmed Khan,Tiger ShroffNawazuddin SiddiquiTara Sutaria,1000000000.0,362700000.0,0.3627,-63.73,1.0,FLOP
+Jayeshbhai Jordaar,2022,"Comedy, Drama, Social Issues",Divyang Thakkar,Ranveer SinghShalini PandeyBoman IraniRatna Pathak Shah,860000000.0,275800000.0,0.32069767441860464,-67.93023255813954,1.0,FLOP
+Bhool Bhulaiyaa 2,2022,"Comedy, Horror, Mystery",Anees Bazmee,Kartik AaryanTabuKiara Advani,900000000.0,2638120000.0,2.9312444444444443,193.12444444444446,3.8,HIT
+Dhaakad,2022,"Action, Thriller, Drama",Razy Ghai,Kangana RanautArjun RampalDivya Dutta,930000000.0,35532500.0,0.03820698924731183,-96.17930107526882,1.0,FLOP
+Anek,2022,"Drama, Thriller, Political",Anubhav Sinha,Ayushmann Khurrana,470000000.0,108725000.0,0.23132978723404254,-76.86702127659575,1.0,FLOP
+Samrat Prithviraj,2022,"Historical, Action, Drama",Chandraprakash Dwivedi,Akshay KumarSanjay DuttSonu SoodManushi Chhillar,2000000000.0,909700000.0,0.45485,-54.515,1.0,FLOP
+Major[a],2022,"Biographical, Action, Drama",Sashi Kiran Tikka,Adivi SeshSobhita DhulipalaSaiee ManjrekarPrakash RajRevathi,250000000.0,582000000.0,2.328,132.8,3.8,HIT
+Janhit Mein Jaari,2022,"Comedy, Drama, Social Issues",Jai Basantu Singh,Nushrratt Bharuccha,120000000.0,51200000.0,0.4266666666666667,-57.333333333333336,1.0,FLOP
+Ardh,2022,"Drama, Comedy",Palash Muchhal,Rajpal YadavRubina Dilaik,100000000.0,33500.0,0.000335,-99.9665,1.0,FLOP
+Nikamma,2022,"Action, Comedy, Drama",Sabbir Khan,Abhimanyu DassaniShirley SetiaShilpa Shetty,220000000.0,19600000.0,0.0890909090909091,-91.0909090909091,1.0,FLOP
+Jugjugg Jeeyo,2022,"Comedy, Drama, Family",Raj Mehta,Anil KapoorNeetu KapoorVarun DhawanKiara AdvaniPrajakta KoliManish Paul,1210000000.0,1290430000.0,1.0664710743801653,6.647107438016529,2.5,AVERAGE
+Rashtra Kavach Om,2022,"Action, Thriller, Drama",Kapil Verma,Aditya Roy KapurSanjana SanghiAshutosh Rana,300000000.0,90100000.0,0.30033333333333334,-69.96666666666667,1.0,FLOP
+Rocketry: The Nambi Effect[c],2022,"Biography, Drama, Science Fiction",R. Madhavan,R. MadhavanSimran,250000000.0,505000000.0,2.02,102.0,3.8,HIT
+Khuda Haafiz: Chapter 2 – Agni Pariksha,2022,"Action, Thriller, Drama",Faruk Kabir,Vidyut JammwalShivaleeka Oberoi,200000000.0,120000000.0,0.6,-40.0,1.0,FLOP
+HIT: The First Case,2022,"Thriller, Mystery, Drama",Shailesh Kolanu,Rajkummar RaoSanya Malhotra,350000000.0,80000000.0,0.22857142857142856,-77.14285714285715,1.0,FLOP
+Shabaash Mithu,2022,"Biographical, Sports, Drama",Srijit Mukherji,Taapsee Pannu,480000000.0,25100000.0,0.05229166666666667,-94.77083333333334,1.0,FLOP
+Shamshera,2022,"Action, Adventure, Drama",Karan Malhotra,Ranbir KapoorSanjay DuttVaani Kapoor,1830000000.0,631800000.0,0.34524590163934427,-65.47540983606558,1.0,FLOP
+Ek Villain Returns,2022,"Action, Thriller, Romance",Mohit Suri,John AbrahamArjun KapoorDisha PataniTara Sutaria,750000000.0,671225000.0,0.8949666666666667,-10.503333333333334,1.8,FLOP
+Darlings,2022,"Comedy, Drama, Thriller",Jasmeet K Reen,Alia BhattShefali ShahVijay Varma,200000000.0,900000.0,0.0045,-99.55000000000001,1.0,FLOP
+Laal Singh Chaddha,2022,"Drama, Comedy, Romance",Advait Chandan,Aamir KhanKareena KapoorNaga ChaitanyaMona Singh,2750000000.0,1320300000.0,0.48010909090909093,-51.989090909090905,1.0,FLOP
+Raksha Bandhan,2022,"Comedy, Drama, Family",Aanand L. Rai,Akshay KumarBhumi Pednekar,1580000000.0,635412500.0,0.40215981012658225,-59.78401898734177,1.0,FLOP
+Dobaaraa,2022,"Thriller, Mystery, Sci-Fi",Anurag Kashyap,Taapsee PannuPavail Gulati,170000000.0,43180000.0,0.254,-74.6,1.0,FLOP
+Liger[a],2022,"Action, Sports, Drama",Puri Jagannadh,Vijay DeverakondaAnanya PandeyRonit RoyRamya KrishnaMike Tyson,1000000000.0,561200000.0,0.5612,-43.88,1.0,FLOP
+Brahmāstra: Part One – Shiva,2022,"Fantasy, Action, Adventure, Drama",Ayan Mukerji,Ranbir KapoorAmitabh BachchanAlia BhattMouni RoyNagarjuna,4000000000.0,4500000000.0,1.125,12.5,2.5,AVERAGE
+Siya,2022,"Drama, Thriller",Manish Mundra,Viineet Kumar SinghPooja PandeyRashmi Somvanshi,12500000.0,1350000.0,0.108,-89.2,1.0,FLOP
+Chup: Revenge of the Artist,2022,"Thriller, Drama, Mystery",R Balki,Sunny DeolDulquer SalmaanPooja BhattShreya Dhanwanthary,100000000.0,95000000.0,0.95,-5.0,1.8,FLOP
+Dhokha: Round D Corner,2022,"Thriller, Drama, Mystery",Kookie Gulati,R. MadhavanAparshakti KhuranaDarshan KumarKhushalii Kumar,150000000.0,44000000.0,0.29333333333333333,-70.66666666666667,1.0,FLOP
+Vikram Vedha,2022,"Action, Thriller, Crime, Drama",Pushkar–Gayathri,Saif Ali KhanHrithik RoshanRadhika Apte,1000000000.0,1350000000.0,1.35,35.0,2.5,AVERAGE
+Doctor G,2022,"Comedy, Drama, Romance",Anubhuti Kashyap,Ayushmann KhurranaRakul Preet SinghShefali Shah,350000000.0,387855000.0,1.1081571428571428,10.815714285714286,2.5,AVERAGE
+Code Name: Tiranga,2022,"Action, Thriller, Drama",Ribhu Dasgupta,Parineeti ChopraHarrdy SandhuSharad Kelkar,150000000.0,14100000.0,0.094,-90.60000000000001,1.0,FLOP
+Ram Setu,2022,"Action, Adventure, Fantasy, Drama",Abhishek Sharma,Akshay KumarJacqueline FernandezNushrratt BharucchaSatya Dev,1630000000.0,920000000.0,0.5644171779141104,-43.558282208588956,1.0,FLOP
+Thank God,2022,"Comedy, Fantasy, Drama",Indra Kumar,Ajay DevgnSidharth MalhotraRakul Preet Singh,980000000.0,80850000.0,0.0825,-91.75,1.0,FLOP
+Phone Bhoot,2022,"Comedy, Horror, Fantasy",Gurmmeet Singh,Katrina KaifIshaan KhatterSiddhant Chaturvedi,200000000.0,158868750.0,0.79434375,-20.565625,1.8,FLOP
+Double XL,2022,"Comedy, Drama",Satramm Ramani,Sonakshi SinhaHuma QureshiZaheer IqbalMahat Raghavendra,150000000.0,11200000.0,0.07466666666666667,-92.53333333333333,1.0,FLOP
+Mili,2022,"Thriller, Drama",Mathukutty Xavier,Janhvi KapoorManoj PahwaSunny Kaushal,25000000.0,44787500.0,1.7915,79.14999999999999,3.2,AVERAGE
+Uunchai,2022,"Drama, Adventure, Family",Sooraj Barjatya,Amitabh BachchanAnupam KherBoman IraniDanny DenzongpaParineeti ChopraNeena GuptaSarika,780000000.0,101680000.0,0.13035897435897437,-86.96410256410256,1.0,FLOP
+Drishyam 2,2022,"Thriller, Drama, Mystery",Abhishek Pathak,Ajay DevgnAkshaye KhannaTabuShriya Saran,1520000000.0,572250000.0,0.37648026315789473,-62.35197368421053,1.0,FLOP
+Bhediya,2022,"Horror, Comedy, Fantasy",Amar Kaushik,Varun DhawanKriti Sanon,600000000.0,883300000.0,1.4721666666666666,47.21666666666667,2.5,AVERAGE
+An Action Hero,2022,"Action, Comedy, Thriller",Anirudh Iyer,Ayushmann KhurranaJaideep Ahlawat,300000000.0,50220000.0,0.1674,-83.26,1.0,FLOP
+Salaam Venky,2022,"Drama, Biographical",Revathi,KajolVishal Jethwa,150000000.0,20000000.0,0.13333333333333333,-86.66666666666667,1.0,FLOP
+Vadh,2022,"Drama, Thriller",Jaspal Singh Sandhu,Sanjay MishraNeena Gupta,37500000.0,18600000.0,0.496,-50.4,1.0,FLOP
+Cirkus,2022,"Comedy, Drama, Musical",Rohit Shetty,Ranveer SinghPooja HegdeJacqueline FernandezVarun Sharma,1000000000.0,180395000.0,0.180395,-81.9605,1.0,FLOP
+Kuttey,2023,"Action, Thriller, Drama",Aasmaan Bhardwaj,Arjun KapoorTabuKonkona Sen SharmaRadhika MadanNitesh KalbandeShardul Bhardwaj,350000000.0,84860000.0,0.24245714285714284,-75.75428571428571,1.0,FLOP
+Pathaan,2023,"Action, Thriller, Spy, Drama",Siddharth Anand,Shah Rukh KhanJohn AbrahamDeepika Padukone,2500000000.0,10139375000.0,4.05575,305.57500000000005,4.8,BLOCKBUSTER
+Operation Fryday,2023,"Action, Thriller, Drama",Vishram Sawant,Nitesh KalbandeRandeep Hooda,150000000.0,27500000.0,0.18333333333333332,-81.66666666666667,1.0,FLOP
+Shehzada,2023,"Action, Comedy, Drama, Romance",Rohit Dhawan,Kartik AaryanKriti SanonParesh RawalManisha KoiralaNitesh Kalbande,850000000.0,474300000.0,0.558,-44.2,1.0,FLOP
+Selfiee,2023,"Comedy, Drama, Musical",Raj Mehta,Akshay KumarEmraan HashmiDiana PentyNushrratt Bharuccha,1000000000.0,236300000.0,0.2363,-76.37,1.0,FLOP
+Mrs. Chatterjee vs Norway,2023,"Drama, Biography",Ashima Chibber,Rani Mukerji,290000000.0,370000000.0,1.2758620689655173,27.586206896551722,2.5,AVERAGE
+Bheed,2023,"Drama, Thriller, Social Commentary",Anubhav Sinha,Rajkummar RaoBhumi PednekarDia MirzaAshutosh RanaPankaj Kapur,250000000.0,33300000.0,0.1332,-86.68,1.0,FLOP
+Bholaa,2023,"Action, Thriller, Drama",Ajay Devgn,Ajay DevgnTabu,1000000000.0,149695000.0,0.149695,-85.0305,1.0,FLOP
+Gumraah,2023,"Thriller, Mystery, Drama",Vardhan Ketkar,Aditya Roy KapurMrunal ThakurRonit Roy,250000000.0,106800000.0,0.4272,-57.28,1.0,FLOP
+Kisi Ka Bhai Kisi Ki Jaan,2023,"Action, Comedy, Drama, Family",Farhad Samji,Salman KhanPooja HegdeVenkateshShehnaaz GillJagapathi Babu,1250000000.0,587880000.0,0.470304,-52.96959999999999,1.0,FLOP
+Bad Boy,2023,"Action, Comedy, Romance",Rajkumar Santoshi,Namashi ChakrabortyAmrin QureshiSaswata ChatterjeeDarshan JariwalaJohnny Lever,6000000.0,550000.0,0.09166666666666666,-90.83333333333333,1.0,FLOP
+The Kerala Story,2023,"Drama, Thriller, Historical",Sudipto Sen,Adah SharmaYogita BihaniSonia BalaniSiddhi Idnani,300000000.0,3039700000.0,10.132333333333333,913.2333333333333,5.0,BLOCKBUSTER
+Chatrapathi,2023,"Action, Drama",V. V. Vinayak,Bellamkonda SreenivasNushrratt BharucchaSahil Vaid,500000000.0,30000000.0,0.06,-94.0,1.0,FLOP
+IB71,2023,"Action, Thriller, Drama",Sankalp Reddy,Vidyut JammwalAnupam KherVishal JethwaNiharica Raizada,200000000.0,295000000.0,1.475,47.5,2.5,AVERAGE
+Zara Hatke Zara Bachke,2023,"Romantic Comedy, Drama",Laxman Utekar,Vicky KaushalSara Ali Khan,400000000.0,1147357500.0,2.86839375,186.83937500000002,3.8,HIT
+Adipurush,2023,"Action, Fantasy, Adventure, Drama",Om Raut,Saif Ali KhanPrabhasKriti SanonSunny Singh,6500000000.0,3930000000.0,0.6046153846153847,-39.53846153846154,1.0,FLOP
+Bawaal,2023,"Drama, Romance, Comedy",Nitesh Tiwari,Varun DhawanJanhvi Kapoor,2000000.0,1025000.0,0.5125,-48.75,1.0,FLOP
+Rocky Aur Rani Kii Prem Kahaani,2023,"Romance, Drama, Musical, Comedy",Karan Johar,Ranveer SinghAlia BhattJaya BachchanDharmendraShabana AzmiTota Roy ChowdhuryChurni GangulyAnjali AnandAamir BashirKshitee Jog,1500000000.0,3575000000.0,2.3833333333333333,138.33333333333334,3.8,HIT
+Gadar 2,2023,"Action, Drama, Romance, Historical",Anil Sharma,Sunny DeolAmeesha PatelUtkarsh Sharma,740000000.0,6860000000.0,9.27027027027027,827.027027027027,5.0,BLOCKBUSTER
+OMG 2,2023,"Comedy, Drama, Social Issues",Amit Rai,Akshay KumarYami GautamPankaj TripathiArun Govil,680000000.0,2217500000.0,3.261029411764706,226.1029411764706,4.3,SUPER HIT
+Ghoomer,2023,"Drama, Sports",R. Balki,Abhishek BachchanSaiyami KherShabana AzmiAngad Bedi,200000000.0,71500000.0,0.3575,-64.25,1.0,FLOP
+Dream Girl 2,2023,"Comedy, Romance",Raaj Shaandilyaa,Ayushmann KhurranaAnanya PandayAnnu KapoorParesh RawalVijay RaazManoj JoshiRajpal YadavAsraniSeema PahwaManjot SinghAbhishek Banerjee,810000000.0,1422000000.0,1.7555555555555555,75.55555555555556,3.2,AVERAGE
+Jawan,2023,"Action, Thriller, Drama, Adventure",Atlee,Shah Rukh KhanNayantharaVijay SethupathiPriyamaniSanya MalhotraDeepika Padukone,4007500000.0,11607554000.0,2.896457641921397,189.64576419213975,3.8,HIT
+The Great Indian Family,2023,"Comedy, Drama, Family",Vijay Krishna Acharya,Vicky KaushalManushi Chhillar,400000000.0,61000000.0,0.1525,-84.75,1.0,FLOP
+Fukrey 3,2023,"Comedy, Drama, Adventure",Mrighdeep Singh,Pankaj TripathiPulkit SamratVarun SharmaRicha ChadhaManjot Singh,400000000.0,1277500000.0,3.19375,219.375,4.3,SUPER HIT
+Mission Raniganj,2023,"Action, Drama, Thriller",Tinu Suresh Desai,Akshay KumarParineeti Chopra,550000000.0,460000000.0,0.8363636363636363,-16.363636363636363,1.8,FLOP
+Thank You for Coming,2023,"Comedy, Drama",Karan Boolani,Bhumi PednekarShehnaaz GillDolly SinghKusha KapilaShibani BediKaran KundrraTejaswi Dev ChaudharySaloni Daini,420000000.0,96000000.0,0.22857142857142856,-77.14285714285715,1.0,FLOP
+Ganapath,2023,"Action, Thriller, Drama, Sci-Fi",Vikas Bahl,Amitabh BachchanTiger ShroffKriti SanonElli AvrRam,1600000000.0,180000000.0,0.1125,-88.75,1.0,FLOP
+Yaariyan 2,2023,"Drama, Romance, Musical, Comedy",Radhika RaoVinay Sapru,Divya Khosla KumarYash DaasguptaaPearl V PuriMeezaan JafriAnaswara RajanPriya Prakash VarrierWarina Hussain,250000000.0,35000000.0,0.14,-86.0,1.0,FLOP
+12th Fail,2023,"Drama, Inspirational, Biography",Vidhu Vinod Chopra,Vikrant MasseyMedha ShankarPriyanshu ChatterjeeHarish Khanna,200000000.0,700500000.0,3.5025,250.25,4.3,SUPER HIT
+Tejas,2023,"Action, Drama, War",Sarvesh Mewara,Kangana Ranaut,19000000.0,64568750.0,3.3983552631578946,239.83552631578945,4.3,SUPER HIT
+The Lady Killer,2023,"Thriller, Drama, Romance",Ajay Bahl,Arjun KapoorBhumi Pednekar,450000000.0,60000.0,0.00013333333333333334,-99.98666666666666,1.0,FLOP
+Tiger 3,2023,"Action, Thriller, Adventure",Maneesh Sharma,Salman KhanKatrina KaifEmraan Hashmi,3100000000.0,4648240000.0,1.499432258064516,49.943225806451615,2.5,AVERAGE
+Farrey,2023,"Drama, Thriller, Mystery",Soumendra Padhi,Alizeh AgnihotriZeyn ShawSahil MehtaPrasanna BishtRonit RoyJuhi Babbar,200000000.0,32000000.0,0.16,-84.0,1.0,FLOP
+Starfish,2023,"Drama, Romance, Thriller",Akhilesh Jaiswal,Khushalii KumarMilind SomanEhan BhatTusharr Khanna,80000000.0,1000000.0,0.0125,-98.75,1.0,FLOP
+Do Ajnabee,2023,"Thriller, Drama, Mystery",Sanjeev Kumar Rajput,Aarya BabbarAnkit BathlaAnu MitraAman Yatan Verma,50000000.0,240000000.0,4.8,380.0,4.8,BLOCKBUSTER
+Animal,2023,"Action, Drama, Thriller",Sandeep Reddy Vanga,Ranbir KapoorRashmika MandannaAnil KapoorBobby DeolTripti Dimri,1120000000.0,9150000000.0,8.169642857142858,716.9642857142857,5.0,BLOCKBUSTER
+Sam Bahadur,2023,"Biographical, Drama, War",Meghna Gulzar,Vicky KaushalSanya MalhotraFatima Sana Shaikh,550000000.0,1303000000.0,2.369090909090909,136.9090909090909,3.8,HIT
+Dunki,2023,"Drama, Comedy, Social Issues",Rajkumar Hirani,Shah Rukh KhanTaapsee PannuVicky KaushalBoman IraniVikram KochharAnil Grover,1200000000.0,4547387500.0,3.7894895833333333,278.94895833333334,4.3,SUPER HIT
+Merry Christmas,2024,"Thriller, Comedy, Drama",Sriram Raghavan,Katrina KaifVijay Sethupathi,600000000.0,271800000.0,0.453,-54.7,1.0,FLOP
+Main Atal Hoon,2024,"Biographical, Drama",Ravi Jadhav,Pankaj Tripathi,200000000.0,124900000.0,0.6245,-37.55,1.0,FLOP
+Fighter,2024,"Action, Thriller, Drama",Siddharth Anand,Hrithik RoshanDeepika PadukoneAnil KapoorKaran Singh GroverAkshay OberoiSanjeeda Sheikh,3500000000.0,3588900000.0,1.0254,2.54,2.5,AVERAGE
+Teri Baaton Mein Aisa Uljha Jiya,2024,"Romance, Drama",Amit JoshiAradhana Sah,Shahid KapoorKriti SanonDharmendraDimple Kapadia,630000000.0,1390000000.0,2.2063492063492065,120.63492063492063,3.8,HIT
+Mirg,2024,"Drama, Thriller, Mystery",Tarun Sharma,Satish KaushikAnup SoniShwetaabh SinghRaj Babbar,3680000000.0,1400000.0,0.00038043478260869565,-99.96195652173913,1.0,FLOP
+Dashmi,2024,"Drama, Thriller, Mystery",Shantanu Anant Tambe,Vardhan PuriGaurav SareenSanjay PandeyRajesh Jais,40000000.0,5900000.0,0.1475,-85.25,1.0,FLOP
+Kuch Khattaa Ho Jaay,2024,"Comedy, Drama, Romance",G. Ashok,Guru RandhawaSaiee ManjrekarAnupam KherIla Arun,350000000.0,16900000.0,0.048285714285714286,-95.17142857142858,1.0,FLOP
+Crakk,2024,"Action, Thriller, Drama",Aditya Datt,Vidyut JammwalNora FatehiArjun RampalAmy Jackson,450000000.0,178800000.0,0.3973333333333333,-60.266666666666666,1.0,FLOP
+Article 370,2024,"Drama, Political, Thriller",Aditya Suhas Jambhale,Yami GautamPriyamaniSkand ThakurAshwini KaulVaibhav TatwawadiArun GovilKiran Karmarkar,200000000.0,1051500000.0,5.2575,425.75,5.0,BLOCKBUSTER
+All India Rank,2024,"Drama, Comedy",Varun Grover,Bodhisattva SharmaSamta SudikshaSheeba ChaddhaGeeta AgrawalNeeraj Ayush PandeySaadat Khan,41700000.0,4200000.0,0.10071942446043165,-89.92805755395683,1.0,FLOP
+Chote Nawab,2024,"Drama, Romance, Comedy",Kumud Chaudhary,Akshay OberoiPlabita BorthakurSvar KambleShataf FigarEkavali KhannaRajshri DeshpandeFalaq NaazSadiya SiddiquiLalit TiwariSohaila KapurAyush TandonNeeraj Sood,40000000.0,1000000.0,0.025,-97.5,1.0,FLOP
+Laapataa Ladies,2024,"Comedy, Drama, Romance",Kiran Rao,Ravi KishanNitanshi GoelPratibha RantaSparsh SrivastavChhaya Kadam,65700000.0,276600000.0,4.210045662100456,321.00456621004565,4.8,BLOCKBUSTER
+Operation Valentine,2024,"Action, Drama, Thriller",Shakti Pratap Singh Hada,Varun TejManushi Chhillar,420000000.0,103000000.0,0.24523809523809523,-75.47619047619048,1.0,FLOP
+Shaitaan,2024,"Thriller, Drama, Action",Vikas Bahl,Ajay DevgnR. MadhavanJyothika,600000000.0,2137900000.0,3.5631666666666666,256.31666666666666,4.3,SUPER HIT
+Tera Kya Hoga Lovely,2024,"Comedy, Drama, Romance",Balwinder Singh Janjua,Randeep HoodaIleana D'CruzKaran Kundrra,80000000.0,2000000.0,0.025,-97.5,1.0,FLOP
+Alpha Beta Gamma,2024,"Drama, Comedy, Romance",Shankar Srikumar,NishanAmit Kumar VashisthReena Aggarwal,50000000.0,600000.0,0.012,-98.8,1.0,FLOP
+Yodha,2024,"Action, Drama, Thriller",Sagar AmbrePushkar Ojha,Sidharth MalhotraRaashii KhannaDisha Patani,550000000.0,536800000.0,0.976,-2.4,1.8,FLOP
+Bastar: The Naxal Story,2024,"Drama, Thriller, Action, Political",Sudipto Sen,Adah SharmaShilpa ShuklaYashpal SharmaSubrat DuttaRaima Sen,150000000.0,40400000.0,0.2693333333333333,-73.06666666666666,1.0,FLOP
+Madgaon Express,2024,"Comedy, Drama, Adventure",Kunal Khemu,DivyennduPratik GandhiAvinash TiwaryNora FatehiUpendra LimayeChhaya Kadam,300000000.0,469000000.0,1.5633333333333332,56.333333333333336,3.2,AVERAGE
+Swatantrya Veer Savarkar,2024,"Biographical, Historical, Drama",Randeep Hooda,Randeep HoodaAnkita LokhandeAmit Sial,200000000.0,321800000.0,1.609,60.9,3.2,AVERAGE
+Crew,2024,"Comedy, Drama, Thriller",Rajesh A Krishnan,TabuKareena Kapoor KhanKriti SanonDiljit Dosanjh,560000000.0,1516300000.0,2.7076785714285716,170.76785714285714,3.8,HIT
+Dukaan,2024,"Drama, Comedy, Romance",Siddharth–Garima,Monika PanwarSikandar KherMonali Thakur,60000000.0,2372625.0,0.03954375,-96.045625,1.0,FLOP
+Bade Miyan Chote Miyan,2024,"Action, Comedy, Drama",Ali Abbas Zafar,Akshay KumarTiger ShroffPrithviraj SukumaranManushi ChhillarAlaya FSonakshi SinhaRonit Bose Roy,3520000000.0,1352181250.0,0.38414240056818183,-61.58575994318182,1.0,FLOP
+Maidaan,2024,"Drama, Sports, Biography",Amit Sharma,Ajay DevgnPriyamaniGajraj Rao,2350000000.0,717200000.0,0.30519148936170215,-69.48085106382979,1.0,FLOP
+Ameena,2024,"Drama, Romance, Thriller",Kumar Raj,Rekha RanaAnant Mahadevan,60000000.0,2100000.0,0.035,-96.5,1.0,FLOP
+Do Aur Do Pyaar,2024,"Romantic Comedy, Drama",Shirsha Guha Thakurta,Vidya BalanPratik GandhiIleana D'CruzSendhil Ramamurthy,400000000.0,59400000.0,0.1485,-85.15,1.0,FLOP
+Ruslaan,2024,"Drama, Romance, Thriller",Karan Butani,Aayush SharmaSushrii Shreya MishraaJagapathi BabuVidya Malvade,250000000.0,31500000.0,0.126,-87.4,1.0,FLOP
+Srikanth,2024,"Drama, Comedy, Romance",Tushar Hiranandani,Rajkummar RaoJyothikaAlaya FSharad Kelkar,350000000.0,605900000.0,1.731142857142857,73.11428571428571,3.2,AVERAGE
+Bhaiyya Ji,2024,"Comedy, Action, Drama",Apoorva Singh Karki,Manoj BajpayeeSuvinder VickyJatin GoswamiVipin SharmaZoya Hussain,187500000.0,102200000.0,0.5450666666666667,-45.49333333333333,1.0,FLOP
+Mr. & Mrs. Mahi,2024,"Comedy, Drama, Sports",Sharan Sharma,Rajkummar RaoJanhvi Kapoor,400000000.0,519500000.0,1.29875,29.875,2.5,AVERAGE
+Savi,2024,"Drama, Thriller, Action",Abhinay Deo,Anil KapoorDivya Khosla KumarHarshvardhan Rane,200000000.0,112500000.0,0.5625,-43.75,1.0,FLOP
+Chhota Bheem and the Curse of Damyaan,2024,"Animation, Adventure, Family, Fantasy",Rajiv Chilaka,Anupam KherMakrand DeshpandeSanjay BishnoiSurbhi TiwariYagya Bhasin,45000000.0,55100000.0,1.2244444444444444,22.444444444444443,2.5,AVERAGE
+Munjya,2024,"Drama, Comedy, Romance",Aditya Sarpotdar,SharvariAbhay VermaMona Singh,300000000.0,1260400000.0,4.201333333333333,320.1333333333333,4.8,BLOCKBUSTER
+Chandu Champion,2024,"Action, Drama, Sports",Kabir Khan,Kartik Aaryan,730000000.0,892400000.0,1.2224657534246575,22.246575342465754,2.5,AVERAGE
+Ishq Vishk Rebound,2024,"Romantic Comedy, Drama",Nipun Dharmadhikari,Rohit SarafPashmina RoshanJibraan KhanNaila Grrewal,200000000.0,58500000.0,0.2925,-70.75,1.0,FLOP
+Maharaj,2024,"Drama, Action, Thriller",Siddharth P. Malhotra,Junaid KhanJaideep AhlawatShalini PandeySharvari,57500000.0,112200000.0,1.951304347826087,95.1304347826087,3.2,AVERAGE
+Pushtaini,2024,"Drama, Family, Comedy",Vinod Rawat,Vinod RawatHemant PandeyShashi Bhushan,200000000.0,900000.0,0.0045,-99.55000000000001,1.0,FLOP
+Jahangir National University,2024,"Drama, Romance, Comedy",Vinay Sharma,Siddharth BodkeUrvashi RautelaRashami DesaiPiyush MishraRavi Kishan,200000000.0,12000000.0,0.06,-94.0,1.0,FLOP
+Kill,2024,"Action, Thriller, Drama",Nikhil Nagesh Bhat,LakshyaRaghav JuyalTanya Maniktala,400000000.0,521000000.0,1.3025,30.25,2.5,AVERAGE
+Sarfira,2024,"Action, Drama, Comedy",Sudha Kongara,Akshay KumarParesh RawalRadhika Madan,800000000.0,339100000.0,0.423875,-57.6125,1.0,FLOP
+Bad Newz,2024,"Comedy, Drama, Romance",Anand Tiwari,Vicky KaushalTriptii DimriAmmy VirkNeha Dhupia,800000000.0,1137700000.0,1.422125,42.2125,2.5,AVERAGE
+Ulajh,2024,"Drama, Thriller, Mystery",Sudhanshu Saria,Janhvi KapoorGulshan DevaiahRajesh TailangMeiyang ChangRoshan Mathew,350000000.0,112600000.0,0.32171428571428573,-67.82857142857142,1.0,FLOP
+Khel Khel Mein,2024,Unknown,Mudassar Aziz,Akshay KumarTaapsee PannuFardeen KhanVaani KapoorAmmy VirkPragya JaiswalAditya Seal,890000000.0,570500000.0,0.6410112359550562,-35.89887640449439,1.0,FLOP
+Vedaa,2024,Unknown,Nikkhil Advani,John AbrahamSharvariAbhishek BanerjeeAshish Vidyarthi,600000000.0,300000000.0,0.5,-50.0,1.0,FLOP
+Stree 2,2024,Unknown,Amar Kaushik,Shraddha KapoorRajkummar RaoAparshakti KhuranaPankaj TripathiAbhishek Banerjee,670000000.0,8571500000.0,12.793283582089552,1179.3283582089553,5.0,BLOCKBUSTER
+The Buckingham Murders,2024,Unknown,Hansal Mehta,Kareena Kapoor KhanAsh TandonRanveer BrarKeith Allen,400000000.0,158400000.0,0.396,-60.4,1.0,FLOP
+Yudhra,2024,Unknown,Ravi Udyawar,Siddhant ChaturvediMalavika MohananRaghav JuyalGajraj RaoRam Kapoor,500000000.0,145600000.0,0.2912,-70.88,1.0,FLOP
+Binny And Family,2024,Unknown,Ssanjay Tripaathy,Anjini DhawanPankaj KapurRajesh KumarCharu ShankarHimani ShivpuriNaman Tripathy,200000000.0,30200000.0,0.151,-84.89999999999999,1.0,FLOP
+Jigra,2024,Unknown,Vasan Bala,Alia BhattVedang Raina,870000000.0,569300000.0,0.654367816091954,-34.56321839080459,1.0,FLOP
+Vicky Vidya Ka Woh Wala Video,2024,Unknown,Raaj Shaandilyaa,Rajkummar RaoTriptii Dimri,600000000.0,582100000.0,0.9701666666666666,-2.9833333333333334,1.8,FLOP
+Bandaa Singh Chaudhary,2024,Unknown,Abhishek Saxena,Arshad WarsiMeher Vij,200000000.0,10300000.0,0.0515,-94.85,1.0,FLOP
+Navras Katha Collage,2024,Unknown,Praveen Hingonia,Praveen HingoniaSheeba ChaddhaRajesh SharmaAlka AminRevathi Pillai,5000000.0,23100000.0,4.62,362.0,4.8,BLOCKBUSTER
+Bhool Bhulaiyaa 3,2024,Unknown,Anees Bazmee,Kartik AaryanVidya BalanMadhuri DixitTriptii Dimri,1500000000.0,4003500000.0,2.669,166.9,3.8,HIT
+Singham Again,2024,Unknown,Rohit Shetty,Ajay DevgnAkshay KumarRanveer SinghTiger ShroffKareena Kapoor KhanDeepika PadukoneArjun KapoorJackie Shroff,3500000000.0,3893500000.0,1.1124285714285713,11.242857142857144,2.5,AVERAGE
+The Sabarmati Report,2024,Unknown,Dheeraj Sarna,Vikrant MasseyRaashii KhannaRiddhi Dogra,500000000.0,410700000.0,0.8214,-17.86,1.8,FLOP
+Naam,2024,Unknown,Anees Bazmee,Ajay DevgnSameera ReddyBhumika ChawlaRahul Dev,15000000.0,8550000.0,0.57,-43.0,1.0,FLOP
+I Want to Talk,2024,Unknown,Shoojit Sircar,Abhishek BachchanAhilya BamrooJohny Lever,300000000.0,25100000.0,0.08366666666666667,-91.63333333333334,1.0,FLOP
+Vanvaas,2024,Unknown,Anil Sharma,Nana PatekarUtkarsh SharmaSimrat KaurRajpal Yadav,300000000.0,58300000.0,0.19433333333333333,-80.56666666666666,1.0,FLOP
+OutHouse,2024,Unknown,Sunil Sukthankar,Sunil AbhyankarSharmila TagoreSonali KulkarniMohan AgasheJihan Jeetendra Hodar,100000000.0,1400000.0,0.014,-98.6,1.0,FLOP
+Baby John,2024,Unknown,Kalees,Varun DhawanKeerthy SureshWamiqa GabbiJackie ShroffSanya Malhotra,850000000.0,610000000.0,0.7176470588235294,-28.235294117647058,1.0,FLOP
+Fateh,2025,Unknown,Sonu Sood,Sonu SoodNaseeruddin ShahJacqueline Fernandez,276400000.0,190600000.0,0.6895803183791607,-31.04196816208394,1.0,FLOP
+Emergency,2025,Unknown,Kangana Ranaut,Kangana RanautAnupam KherShreyas TalpadeMahima ChaudhryMilind SomanSatish Kaushik,820000000.0,238100000.0,0.29036585365853657,-70.96341463414633,1.0,FLOP
+Azaad,2025,Unknown,Abhishek Kapoor,Ajay DevgnDiana PentyAaman DevganRasha ThadaniMohit MalikPiyush Mishra,870000000.0,86900000.0,0.09988505747126437,-90.01149425287356,1.0,FLOP
+Sky Force,2025,Unknown,Sandeep KewlaniAbhishek Anil Kapur,Akshay KumarVeer PahariyaSara Ali KhanNimrat Kaur,1600000000.0,1500100000.0,0.9375625,-6.24375,1.8,FLOP
+Deva,2025,Unknown,Rosshan Andrrews,Shahid KapoorPooja Hegde,502500000.0,511350000.0,1.0176119402985075,1.761194029850746,2.5,AVERAGE
+Loveyapa,2025,Unknown,Advait Chandan,Khushi KapoorJunaid Khan,600000000.0,95600000.0,0.15933333333333333,-84.06666666666666,1.0,FLOP
+Badass Ravi Kumar,2025,Unknown,Keith Gomes,Himesh ReshammiyaPrabhu DevaKirti KulhariSonia KapoorRajesh SharmaJohny LeverNavneet NishanManish WadhwaSanjay MishraAnil George,200000000.0,111700000.0,0.5585,-44.15,1.0,FLOP
+Chhaava,2025,Unknown,Laxman Utekar,Vicky KaushalRashmika MandannaAkshaye Khanna,1200000000.0,8079300000.0,6.73275,573.275,5.0,BLOCKBUSTER
+Mere Husband Ki Biwi,2025,Unknown,Mudassar Aziz,Arjun KapoorRakul Preet SinghBhumi Pednekar,600000000.0,87500000.0,0.14583333333333334,-85.41666666666666,1.0,FLOP
+Shaila,2025,Unknown,Saki Shah,Rohit ChaudharySara KhanSonam AroraAadhvikaaDurvesh RameshwaramHussain KhanKetan Raj Sharma,11100000.0,1700000.0,0.15315315315315314,-84.68468468468468,1.0,FLOP
+Crazxy,2025,Unknown,Girish Kohli,Sohum Shah,50000000.0,182500000.0,3.65,265.0,4.3,SUPER HIT
+The Diplomat,2025,Unknown,Shivam Nair,John AbrahamSadia KhateebRevathyKumud Mishra,204500000.0,506600000.0,2.4772616136919314,147.72616136919314,3.8,HIT
+Baida,2025,Unknown,Puneet Sharma,Sudhanshu RaiManisha RaiShobhit Sujay,100000000.0,7200000.0,0.072,-92.80000000000001,1.0,FLOP
+Tumko Meri Kasam,2025,Unknown,Vikram Bhatt,Anupam KherIshwak SinghAdah SharmaEsha Deol,110000000.0,11100000.0,0.1009090909090909,-89.9090909090909,1.0,FLOP
+Sikandar,2025,Unknown,AR Murugadoss,Salman KhanKajal AggarwalRashmika MandannaSathyarajPrateik Babbar,2000000000.0,1880000000.0,0.94,-6.0,1.8,FLOP
+Jaat,2025,Unknown,Gopichand Malineni,Sunny DeolRandeep HoodaRegina CassandraSaiyami Kher,1000000000.0,1062000000.0,1.062,6.2,2.5,AVERAGE
+Kesari Chapter 2,2025,Unknown,Karan Singh Tyagi,Akshay KumarR. MadhavanAnanya Panday,1500000000.0,1450100000.0,0.9667333333333333,-3.3266666666666667,1.8,FLOP
+Ground Zero,2025,Unknown,Tejas Prabha Vijay Deoskar,Emraan HashmiSai TamhankarZoya HussainMukesh TiwariLalit Prabhakar,500000000.0,92500000.0,0.185,-81.5,1.0,FLOP
+Phule,2025,Unknown,Anant Mahadevan,Pratik GandhiPatralekha,300000000.0,62100000.0,0.207,-79.3,1.0,FLOP
+Oye Bhootni Ke,2025,Unknown,Ajay Kailash Yadav,Mahaakshay ChakrabortyNikita SharmaDiana KhanAshoka ThackurChahat Mughal,35000000.0,900000.0,0.025714285714285714,-97.42857142857143,1.0,FLOP
+Raid 2,2025,Unknown,Raj Kumar Gupta,Ajay DevgnRiteish DeshmukhVaani Kapoor,1200000000.0,2430600000.0,2.0255,102.55000000000001,3.8,HIT
+The Bhootnii,2025,Unknown,Sidhaant Sachdev,Sanjay DuttMouni RoySunny SinghPalak TiwariBeyounickAasif Khan,300000000.0,151200000.0,0.504,-49.6,1.0,FLOP
+Romeo S3,2025,Unknown,Guddu Dhanoa,Thakur Anoop SinghPalak Tiwari,100000000.0,4200000.0,0.042,-95.8,1.0,FLOP
+Bhool Chuk Maaf,2025,Unknown,Karan Sharma,Rajkummar RaoWamiqa Gabbi,500000000.0,888900000.0,1.7778,77.78,3.2,AVERAGE
+Kapkapiii,2025,Unknown,Sangeeth Sivan,Tusshar KapoorShreyas TalpadeJay ThakkarSiddhi Idnani,250000000.0,16500000.0,0.066,-93.4,1.0,FLOP
+Kesari Veer,2025,Unknown,Prince Dhiman,Suniel ShettyVivek OberoiSooraj PancholiAkansha Sharma,600000000.0,19800000.0,0.033,-96.7,1.0,FLOP
+Housefull 5,2025,Unknown,Tarun Mansukhani,Akshay KumarRiteish DeshmukhSanjay DuttAbhishek BachchanNana PatekarFardeen KhanDino MoreaChunky PandeyJackie ShroffNikitin DheerShreyas TalpadeRanjeetJohnny LeverJacqueline FernandezNargis FakhriSonam BajwaChitrangda SinghSoundarya Sharma,2250000000.0,2750000000.0,1.2222222222222223,22.22222222222222,2.5,AVERAGE
+Sitaare Zameen Par,2025,Unknown,R. S. Prasanna,Aamir KhanGenelia Deshmukh,900000000.0,2664900000.0,2.961,196.1,3.8,HIT
+Maa,2025,Unknown,Vishal Furia,KajolRonit RoyIndraneil SenguptaKherin Sharma,650000000.0,321300000.0,0.4943076923076923,-50.569230769230764,1.0,FLOP
+Metro... In Dino,2025,Unknown,Anurag Basu,Aditya Roy KapurSara Ali KhanAnupam KherNeena GuptaPankaj TripathiKonkona Sen SharmaAli FazalFatima Sana Shaikh,500000000.0,650800000.0,1.3016,30.159999999999997,2.5,AVERAGE
+Maalik,2025,Unknown,Pulkit,Rajkummar RaoManushi ChhillarProsenjit Chatterjee,540000000.0,286500000.0,0.5305555555555556,-46.94444444444444,1.0,FLOP
+Aankhon Ki Gustaakhiyan,2025,Unknown,Santosh Singh,Vikrant MasseyShanaya Kapoor,200000000.0,23500000.0,0.1175,-88.25,1.0,FLOP
+Saiyaara,2025,Unknown,Mohit Suri,Ahaan PandayAneet Padda,500000000.0,5792300000.0,11.5846,1058.46,5.0,BLOCKBUSTER
+Tanvi the Great,2025,Unknown,Anupam Kher,Anupam KherShubhangi DuttIain GlenBoman IraniJackie ShroffArvind SwamiPallavi JoshiKaran TackerNassar,500000000.0,26000000.0,0.052,-94.8,1.0,FLOP
+Mahavatar Narsimha,2025,Unknown,Ashwin Kumar,Animated characters,250000000.0,3207900000.0,12.8316,1183.16,5.0,BLOCKBUSTER
+Dhadak 2,2025,Unknown,Shazia Iqbal,Siddhant ChaturvediTriptii Dimri,400000000.0,290000000.0,0.725,-27.500000000000004,1.0,FLOP
+Son of Sardaar 2,2025,Unknown,Vijay Kumar Arora,Ajay DevgnMrunal ThakurRavi Kishan,1300000000.0,653800000.0,0.5029230769230769,-49.707692307692305,1.0,FLOP
+Andaaz 2,2025,Unknown,Suneel Darshan,Aayush KumarAkaishaNatasha Fernandez,300000000.0,11200000.0,0.037333333333333336,-96.26666666666667,1.0,FLOP
+Udaipur Files,2025,Unknown,Bharat Shrinat,Vijay RaazRajneesh DuggalPreeti JhangianiKanchi SinghKamlesh Sawant,30000000.0,36600000.0,1.22,22.0,2.5,AVERAGE
+War 2,2025,Unknown,Ayan Mukerji,Hrithik RoshanN. T. Rama Rao Jr.Kiara Advani,4000000000.0,3032200000.0,0.75805,-24.195,1.8,FLOP
+Param Sundari,2025,Unknown,Tushar Jalota,Sidharth MalhotraJanhvi Kapoor,526600000.0,891000000.0,1.691986327383213,69.19863273832131,3.2,AVERAGE
+Baaghi 4,2025,Unknown,A. Harsha,Tiger ShroffSanjay DuttSonam BajwaHarnaaz Sandhu,800000000.0,926300000.0,1.157875,15.787499999999998,2.5,AVERAGE
+The Bengal Files,2025,Unknown,Vivek Agnihotri,Mithun ChakrabortyAnupam KherPuneet IssarGovind NamdevBabbu MaanPallavi JoshiPalomi Ghosh,350000000.0,171900000.0,0.49114285714285716,-50.885714285714286,1.0,FLOP
+Heer Express,2025,Unknown,Umesh Shukla,Divita JunejaAshutosh RanaSanjay MishraGulshan GroverPrit Kamani,70000000.0,30000000.0,0.42857142857142855,-57.14285714285714,1.0,FLOP
+Love in Vietnam,2025,Unknown,Rahat Shah Kazmi,Shantanu MaheshwariAvneet KaurKhả Ngân,250000000.0,3000000.0,0.012,-98.8,1.0,FLOP
+Jolly LLB 3,2025,Unknown,Subhash Kapoor,Akshay KumarArshad WarsiHuma QureshiAmrita RaoSaurabh ShuklaGajraj Rao,800000000.0,1698500000.0,2.123125,112.3125,3.8,HIT
+Nishaanchi,2025,Unknown,Anurag Kashyap,Aaishvary ThackerayVedika PintoMonika PanwarMohammed Zeeshan Ayyub,250000000.0,13500000.0,0.054,-94.6,1.0,FLOP
+Ajey: The Untold Story of a Yogi,2025,Unknown,Ravindra Gautam,Anant JoshiParesh RawalDinesh Lal Yadav,150000000.0,27000000.0,0.18,-82.0,1.0,FLOP
+Sunny Sanskari Ki Tulsi Kumari,2025,Unknown,Shashank Khaitan,Varun DhawanJanhvi KapoorSanya MalhotraRohit Saraf,800000000.0,935000000.0,1.16875,16.875,2.5,AVERAGE
+Thamma,2025,Unknown,Aditya Sarpotdar,Ayushmann KhurranaRashmika MandannaNawazuddin SiddiquiParesh Rawal,1250000000.0,1730000000.0,1.384,38.4,2.5,AVERAGE
+Ek Deewane Ki Deewaniyat,2025,Unknown,Milap Zaveri,Harshvardhan RaneSonam Bajwa,250000000.0,940000000.0,3.76,276.0,4.3,SUPER HIT
