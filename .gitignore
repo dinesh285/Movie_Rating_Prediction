@@ -2,6 +2,7 @@ venv/
 __pycache__/
 *.pyc
 .streamlit/
+
 *.tsv.gz
 dataset/*.txt
 eda_results/
@@ -13,6 +14,5 @@ dataset/movies_2005_2025_clean.csv
 dataset/telugu_matched_movies.csv
 dataset/telugu_movies_2005_2025.csv
 
-# Keep final ML dataset
-# dataset/movies_final_2005_2025.csv
-# dataset/movies_ml_ready.csvdataset/boxoffice_raw.csv
+# Raw box office dataset - keep local only
+dataset/boxoffice_raw.csv
